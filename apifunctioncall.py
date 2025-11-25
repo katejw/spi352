@@ -7,7 +7,7 @@ def load_api_key(file_path):
 
 clients = {
   'openai': {
-    'client': OpenAI(api_key=how toload_api_key('api_keys/openai.txt')), #figure out the key/look into AI sandbox through school?
+    'client': OpenAI(api_key=how toload_api_key('api_keys/openai.txt')), #figure out the key/look into AI sandbox through school/change model to Ollama?
   'params': {
     'model': "gpt-4-0125-preview",
     'temperature': 0.0,
