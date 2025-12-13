@@ -38,7 +38,6 @@ def profile_generation(profiles_num):
     profiles = []
     for i in range(profiles_num):
         profile = {
-            "profile_id": i,
             "credit_score": random.randint(550, 750),
             "annual_income": random.randint(45000, 75000),
             "total_debt": random.randint(10000, 60000),
