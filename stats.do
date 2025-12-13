@@ -15,10 +15,7 @@ logistic loan_approved credit_score annual_income total_debt savings employment_
 
 keep if loan_approved == 1
 
-ttest suggested_interest_rate if school_group == "Group_A" | school_group == "Group_B", by(school_group)
-ttest suggested_interest_rate if school_group == "Group_C" | school_group == "Group_B", by(school_group)
-ttest suggested_interest_rate if school_group == "Group_D" | school_group == "Group_B", by(school_group)
-
 anova suggested_interest_rate i.school_group_n
+pwcompare school_group_n, mcompare(tukey)
 
 regress suggested_interest_rate credit_score annual_income total_debt savings employment_years monthly_rent i.school_group_n
