@@ -1,0 +1,1797 @@
+credit_score,annual_income,total_debt,savings,employment_years,monthly_rent,school_name,school_group,loan_approved,suggested_interest_rate
+629,61215,10132,3879,1,2766,Princeton University,Group_A,0,0
+629,61215,10132,3879,1,2766,Massachusetts Institute of Technology,Group_A,0,0
+629,61215,10132,3879,1,2766,Harvard University,Group_A,0,0
+629,61215,10132,3879,1,2766,Howard University,Group_B,0,0
+629,61215,10132,3879,1,2766,Tuskegee University,Group_B,0,0
+629,61215,10132,3879,1,2766,Florida A&M University,Group_B,0,0
+629,61215,10132,3879,1,2766,Texas Christian University,Group_C,0,0
+629,61215,10132,3879,1,2766,Auburn University,Group_C,0,0
+629,61215,10132,3879,1,2766,Temple University,Group_C,0,0
+629,61215,10132,3879,1,2766,Hofstra University,Group_D,0,0
+629,61215,10132,3879,1,2766,Simmons University,Group_D,0,0
+629,61215,10132,3879,1,2766,Adelphi University,Group_D,0,0
+601,65888,41624,4762,1,1971,Princeton University,Group_A,0,0
+601,65888,41624,4762,1,1971,Massachusetts Institute of Technology,Group_A,1,8.5
+601,65888,41624,4762,1,1971,Harvard University,Group_A,0,0
+601,65888,41624,4762,1,1971,Howard University,Group_B,0,0
+601,65888,41624,4762,1,1971,Tuskegee University,Group_B,0,0
+601,65888,41624,4762,1,1971,Florida A&M University,Group_B,0,0
+601,65888,41624,4762,1,1971,Texas Christian University,Group_C,0,0
+601,65888,41624,4762,1,1971,Auburn University,Group_C,0,0
+601,65888,41624,4762,1,1971,Temple University,Group_C,0,0
+601,65888,41624,4762,1,1971,Hofstra University,Group_D,0,0
+601,65888,41624,4762,1,1971,Simmons University,Group_D,0,0
+601,65888,41624,4762,1,1971,Adelphi University,Group_D,0,0
+646,47582,15825,4801,1,3085,Princeton University,Group_A,0,0
+646,47582,15825,4801,1,3085,Massachusetts Institute of Technology,Group_A,1,8.5
+646,47582,15825,4801,1,3085,Harvard University,Group_A,0,0
+646,47582,15825,4801,1,3085,Howard University,Group_B,0,0
+646,47582,15825,4801,1,3085,Tuskegee University,Group_B,0,0
+646,47582,15825,4801,1,3085,Florida A&M University,Group_B,0,0
+646,47582,15825,4801,1,3085,Texas Christian University,Group_C,0,0
+646,47582,15825,4801,1,3085,Temple University,Group_C,0,0
+646,47582,15825,4801,1,3085,Hofstra University,Group_D,0,0
+646,47582,15825,4801,1,3085,Simmons University,Group_D,0,0
+646,47582,15825,4801,1,3085,Adelphi University,Group_D,0,0
+713,63522,22485,1643,1,3242,Princeton University,Group_A,1,7
+713,63522,22485,1643,1,3242,Massachusetts Institute of Technology,Group_A,1,7
+713,63522,22485,1643,1,3242,Harvard University,Group_A,1,7
+713,63522,22485,1643,1,3242,Howard University,Group_B,1,7.5
+713,63522,22485,1643,1,3242,Tuskegee University,Group_B,1,7.5
+713,63522,22485,1643,1,3242,Florida A&M University,Group_B,1,7.5
+713,63522,22485,1643,1,3242,Texas Christian University,Group_C,1,7
+713,63522,22485,1643,1,3242,Auburn University,Group_C,1,7.5
+713,63522,22485,1643,1,3242,Temple University,Group_C,1,7
+713,63522,22485,1643,1,3242,Hofstra University,Group_D,1,7.5
+713,63522,22485,1643,1,3242,Simmons University,Group_D,1,7.5
+713,63522,22485,1643,1,3242,Adelphi University,Group_D,1,7.5
+559,63989,34544,2598,2,1656,Princeton University,Group_A,0,0
+559,63989,34544,2598,2,1656,Massachusetts Institute of Technology,Group_A,0,0
+559,63989,34544,2598,2,1656,Harvard University,Group_A,0,0
+559,63989,34544,2598,2,1656,Howard University,Group_B,0,0
+559,63989,34544,2598,2,1656,Tuskegee University,Group_B,0,0
+559,63989,34544,2598,2,1656,Florida A&M University,Group_B,0,0
+559,63989,34544,2598,2,1656,Texas Christian University,Group_C,0,0
+559,63989,34544,2598,2,1656,Auburn University,Group_C,0,0
+559,63989,34544,2598,2,1656,Temple University,Group_C,0,0
+559,63989,34544,2598,2,1656,Hofstra University,Group_D,0,0
+559,63989,34544,2598,2,1656,Simmons University,Group_D,0,0
+559,63989,34544,2598,2,1656,Adelphi University,Group_D,0,0
+699,57517,13289,1341,2,2938,Princeton University,Group_A,0,0
+699,57517,13289,1341,2,2938,Massachusetts Institute of Technology,Group_A,1,7.5
+699,57517,13289,1341,2,2938,Harvard University,Group_A,1,8.5
+699,57517,13289,1341,2,2938,Howard University,Group_B,0,0
+699,57517,13289,1341,2,2938,Tuskegee University,Group_B,0,0
+699,57517,13289,1341,2,2938,Texas Christian University,Group_C,1,8.5
+699,57517,13289,1341,2,2938,Auburn University,Group_C,0,0
+699,57517,13289,1341,2,2938,Temple University,Group_C,1,8.5
+699,57517,13289,1341,2,2938,Hofstra University,Group_D,0,0
+699,57517,13289,1341,2,2938,Simmons University,Group_D,0,0
+699,57517,13289,1341,2,2938,Adelphi University,Group_D,1,8.5
+587,71635,17679,2818,1,3293,Princeton University,Group_A,0,0
+587,71635,17679,2818,1,3293,Massachusetts Institute of Technology,Group_A,0,0
+587,71635,17679,2818,1,3293,Harvard University,Group_A,0,0
+587,71635,17679,2818,1,3293,Howard University,Group_B,0,0
+587,71635,17679,2818,1,3293,Tuskegee University,Group_B,0,0
+587,71635,17679,2818,1,3293,Florida A&M University,Group_B,0,0
+587,71635,17679,2818,1,3293,Texas Christian University,Group_C,0,0
+587,71635,17679,2818,1,3293,Auburn University,Group_C,0,0
+587,71635,17679,2818,1,3293,Temple University,Group_C,0,0
+587,71635,17679,2818,1,3293,Hofstra University,Group_D,0,0
+587,71635,17679,2818,1,3293,Simmons University,Group_D,0,0
+587,71635,17679,2818,1,3293,Adelphi University,Group_D,0,0
+713,70584,48638,3071,1,2412,Princeton University,Group_A,1,7
+713,70584,48638,3071,1,2412,Massachusetts Institute of Technology,Group_A,1,7
+713,70584,48638,3071,1,2412,Harvard University,Group_A,1,7
+713,70584,48638,3071,1,2412,Howard University,Group_B,1,7.5
+713,70584,48638,3071,1,2412,Tuskegee University,Group_B,1,7
+713,70584,48638,3071,1,2412,Florida A&M University,Group_B,1,7
+713,70584,48638,3071,1,2412,Texas Christian University,Group_C,1,7
+713,70584,48638,3071,1,2412,Auburn University,Group_C,1,7.5
+713,70584,48638,3071,1,2412,Temple University,Group_C,1,7
+713,70584,48638,3071,1,2412,Hofstra University,Group_D,1,7.5
+713,70584,48638,3071,1,2412,Simmons University,Group_D,1,7
+713,70584,48638,3071,1,2412,Adelphi University,Group_D,1,7
+625,64991,48640,4839,1,2367,Massachusetts Institute of Technology,Group_A,1,9.5
+625,64991,48640,4839,1,2367,Harvard University,Group_A,0,0
+625,64991,48640,4839,1,2367,Howard University,Group_B,0,0
+625,64991,48640,4839,1,2367,Tuskegee University,Group_B,0,0
+625,64991,48640,4839,1,2367,Florida A&M University,Group_B,0,0
+625,64991,48640,4839,1,2367,Texas Christian University,Group_C,0,0
+625,64991,48640,4839,1,2367,Auburn University,Group_C,0,0
+625,64991,48640,4839,1,2367,Temple University,Group_C,0,0
+625,64991,48640,4839,1,2367,Hofstra University,Group_D,0,0
+625,64991,48640,4839,1,2367,Simmons University,Group_D,0,0
+625,64991,48640,4839,1,2367,Adelphi University,Group_D,0,0
+551,45616,20980,1249,1,1911,Princeton University,Group_A,0,0
+551,45616,20980,1249,1,1911,Massachusetts Institute of Technology,Group_A,0,0
+551,45616,20980,1249,1,1911,Harvard University,Group_A,0,0
+551,45616,20980,1249,1,1911,Howard University,Group_B,0,0
+551,45616,20980,1249,1,1911,Tuskegee University,Group_B,0,0
+551,45616,20980,1249,1,1911,Florida A&M University,Group_B,0,0
+551,45616,20980,1249,1,1911,Texas Christian University,Group_C,0,0
+551,45616,20980,1249,1,1911,Auburn University,Group_C,0,0
+551,45616,20980,1249,1,1911,Temple University,Group_C,0,0
+551,45616,20980,1249,1,1911,Hofstra University,Group_D,0,0
+551,45616,20980,1249,1,1911,Simmons University,Group_D,0,0
+551,45616,20980,1249,1,1911,Adelphi University,Group_D,0,0
+683,62306,17993,4799,1,1270,Princeton University,Group_A,1,7.5
+683,62306,17993,4799,1,1270,Massachusetts Institute of Technology,Group_A,1,7
+683,62306,17993,4799,1,1270,Harvard University,Group_A,1,7.5
+683,62306,17993,4799,1,1270,Howard University,Group_B,1,7.5
+683,62306,17993,4799,1,1270,Tuskegee University,Group_B,1,7.5
+683,62306,17993,4799,1,1270,Florida A&M University,Group_B,1,8
+683,62306,17993,4799,1,1270,Texas Christian University,Group_C,1,7.5
+683,62306,17993,4799,1,1270,Auburn University,Group_C,1,7.5
+683,62306,17993,4799,1,1270,Temple University,Group_C,1,8
+683,62306,17993,4799,1,1270,Simmons University,Group_D,1,7.5
+683,62306,17993,4799,1,1270,Adelphi University,Group_D,1,7.5
+651,74234,15301,3903,1,3239,Princeton University,Group_A,1,7.5
+651,74234,15301,3903,1,3239,Massachusetts Institute of Technology,Group_A,1,7.5
+651,74234,15301,3903,1,3239,Harvard University,Group_A,1,7.5
+651,74234,15301,3903,1,3239,Howard University,Group_B,1,8
+651,74234,15301,3903,1,3239,Tuskegee University,Group_B,1,7.5
+651,74234,15301,3903,1,3239,Florida A&M University,Group_B,1,7.5
+651,74234,15301,3903,1,3239,Texas Christian University,Group_C,1,7.5
+651,74234,15301,3903,1,3239,Auburn University,Group_C,1,7.5
+651,74234,15301,3903,1,3239,Temple University,Group_C,1,8.5
+651,74234,15301,3903,1,3239,Hofstra University,Group_D,1,7.5
+651,74234,15301,3903,1,3239,Simmons University,Group_D,1,7.5
+651,74234,15301,3903,1,3239,Adelphi University,Group_D,1,7.5
+615,71358,14968,4124,1,1996,Princeton University,Group_A,1,8.5
+615,71358,14968,4124,1,1996,Massachusetts Institute of Technology,Group_A,1,8.5
+615,71358,14968,4124,1,1996,Harvard University,Group_A,1,8.5
+615,71358,14968,4124,1,1996,Howard University,Group_B,1,8.5
+615,71358,14968,4124,1,1996,Tuskegee University,Group_B,1,8.5
+615,71358,14968,4124,1,1996,Florida A&M University,Group_B,1,8.5
+615,71358,14968,4124,1,1996,Texas Christian University,Group_C,1,8.5
+615,71358,14968,4124,1,1996,Auburn University,Group_C,1,8.5
+615,71358,14968,4124,1,1996,Temple University,Group_C,1,8.5
+615,71358,14968,4124,1,1996,Hofstra University,Group_D,0,0
+615,71358,14968,4124,1,1996,Simmons University,Group_D,0,0
+615,71358,14968,4124,1,1996,Adelphi University,Group_D,1,8.5
+630,51852,57820,2747,1,3091,Princeton University,Group_A,0,0
+630,51852,57820,2747,1,3091,Massachusetts Institute of Technology,Group_A,0,0
+630,51852,57820,2747,1,3091,Harvard University,Group_A,0,0
+630,51852,57820,2747,1,3091,Howard University,Group_B,0,0
+630,51852,57820,2747,1,3091,Tuskegee University,Group_B,0,0
+630,51852,57820,2747,1,3091,Florida A&M University,Group_B,0,0
+630,51852,57820,2747,1,3091,Texas Christian University,Group_C,0,0
+630,51852,57820,2747,1,3091,Auburn University,Group_C,0,0
+630,51852,57820,2747,1,3091,Temple University,Group_C,0,0
+630,51852,57820,2747,1,3091,Hofstra University,Group_D,0,0
+630,51852,57820,2747,1,3091,Simmons University,Group_D,0,0
+630,51852,57820,2747,1,3091,Adelphi University,Group_D,0,0
+560,57560,51679,3761,3,2618,Princeton University,Group_A,0,0
+560,57560,51679,3761,3,2618,Massachusetts Institute of Technology,Group_A,0,0
+560,57560,51679,3761,3,2618,Harvard University,Group_A,0,0
+560,57560,51679,3761,3,2618,Howard University,Group_B,0,0
+560,57560,51679,3761,3,2618,Tuskegee University,Group_B,0,0
+560,57560,51679,3761,3,2618,Florida A&M University,Group_B,0,0
+560,57560,51679,3761,3,2618,Texas Christian University,Group_C,0,0
+560,57560,51679,3761,3,2618,Auburn University,Group_C,0,0
+560,57560,51679,3761,3,2618,Temple University,Group_C,0,0
+560,57560,51679,3761,3,2618,Hofstra University,Group_D,0,0
+560,57560,51679,3761,3,2618,Simmons University,Group_D,0,0
+560,57560,51679,3761,3,2618,Adelphi University,Group_D,0,0
+717,45121,29999,2813,2,1440,Princeton University,Group_A,1,7.5
+717,45121,29999,2813,2,1440,Massachusetts Institute of Technology,Group_A,1,7.5
+717,45121,29999,2813,2,1440,Harvard University,Group_A,1,7.5
+717,45121,29999,2813,2,1440,Howard University,Group_B,1,7.5
+717,45121,29999,2813,2,1440,Tuskegee University,Group_B,1,7.5
+717,45121,29999,2813,2,1440,Florida A&M University,Group_B,1,7.5
+717,45121,29999,2813,2,1440,Texas Christian University,Group_C,1,7.5
+717,45121,29999,2813,2,1440,Auburn University,Group_C,1,7.5
+717,45121,29999,2813,2,1440,Temple University,Group_C,1,8
+717,45121,29999,2813,2,1440,Hofstra University,Group_D,1,7.5
+717,45121,29999,2813,2,1440,Simmons University,Group_D,1,7.5
+717,45121,29999,2813,2,1440,Adelphi University,Group_D,1,7.5
+732,68770,18875,3191,1,3368,Princeton University,Group_A,1,7
+732,68770,18875,3191,1,3368,Massachusetts Institute of Technology,Group_A,1,7
+732,68770,18875,3191,1,3368,Howard University,Group_B,1,7
+732,68770,18875,3191,1,3368,Tuskegee University,Group_B,1,7
+732,68770,18875,3191,1,3368,Florida A&M University,Group_B,1,7
+732,68770,18875,3191,1,3368,Texas Christian University,Group_C,1,7
+732,68770,18875,3191,1,3368,Auburn University,Group_C,1,7
+732,68770,18875,3191,1,3368,Temple University,Group_C,1,7
+732,68770,18875,3191,1,3368,Hofstra University,Group_D,1,7
+732,68770,18875,3191,1,3368,Simmons University,Group_D,1,7
+732,68770,18875,3191,1,3368,Adelphi University,Group_D,1,7
+662,50062,13027,1584,2,3102,Princeton University,Group_A,1,8.5
+662,50062,13027,1584,2,3102,Massachusetts Institute of Technology,Group_A,0,0
+662,50062,13027,1584,2,3102,Harvard University,Group_A,1,8.5
+662,50062,13027,1584,2,3102,Howard University,Group_B,0,0
+662,50062,13027,1584,2,3102,Tuskegee University,Group_B,0,0
+662,50062,13027,1584,2,3102,Florida A&M University,Group_B,0,0
+662,50062,13027,1584,2,3102,Texas Christian University,Group_C,0,0
+662,50062,13027,1584,2,3102,Auburn University,Group_C,0,0
+662,50062,13027,1584,2,3102,Temple University,Group_C,0,0
+662,50062,13027,1584,2,3102,Hofstra University,Group_D,0,0
+662,50062,13027,1584,2,3102,Simmons University,Group_D,0,0
+662,50062,13027,1584,2,3102,Adelphi University,Group_D,0,0
+642,72163,10913,4760,1,1381,Princeton University,Group_A,1,8.5
+642,72163,10913,4760,1,1381,Massachusetts Institute of Technology,Group_A,1,7.5
+642,72163,10913,4760,1,1381,Harvard University,Group_A,1,8
+642,72163,10913,4760,1,1381,Howard University,Group_B,1,8.5
+642,72163,10913,4760,1,1381,Tuskegee University,Group_B,1,8.5
+642,72163,10913,4760,1,1381,Florida A&M University,Group_B,1,8
+642,72163,10913,4760,1,1381,Texas Christian University,Group_C,1,8
+642,72163,10913,4760,1,1381,Auburn University,Group_C,1,7.5
+642,72163,10913,4760,1,1381,Simmons University,Group_D,1,8
+642,72163,10913,4760,1,1381,Adelphi University,Group_D,1,7.5
+652,56674,55740,4826,1,2212,Princeton University,Group_A,0,0
+652,56674,55740,4826,1,2212,Massachusetts Institute of Technology,Group_A,0,0
+652,56674,55740,4826,1,2212,Harvard University,Group_A,0,0
+652,56674,55740,4826,1,2212,Howard University,Group_B,0,0
+652,56674,55740,4826,1,2212,Tuskegee University,Group_B,0,0
+652,56674,55740,4826,1,2212,Florida A&M University,Group_B,0,0
+652,56674,55740,4826,1,2212,Texas Christian University,Group_C,0,0
+652,56674,55740,4826,1,2212,Auburn University,Group_C,0,0
+652,56674,55740,4826,1,2212,Temple University,Group_C,0,0
+652,56674,55740,4826,1,2212,Hofstra University,Group_D,0,0
+652,56674,55740,4826,1,2212,Simmons University,Group_D,0,0
+652,56674,55740,4826,1,2212,Adelphi University,Group_D,0,0
+670,49819,43376,4431,1,3217,Princeton University,Group_A,0,0
+670,49819,43376,4431,1,3217,Massachusetts Institute of Technology,Group_A,1,8.5
+670,49819,43376,4431,1,3217,Harvard University,Group_A,1,8.5
+670,49819,43376,4431,1,3217,Howard University,Group_B,0,0
+670,49819,43376,4431,1,3217,Tuskegee University,Group_B,0,0
+670,49819,43376,4431,1,3217,Florida A&M University,Group_B,1,8.5
+670,49819,43376,4431,1,3217,Texas Christian University,Group_C,0,0
+670,49819,43376,4431,1,3217,Auburn University,Group_C,1,8.5
+670,49819,43376,4431,1,3217,Temple University,Group_C,0,0
+670,49819,43376,4431,1,3217,Hofstra University,Group_D,0,0
+670,49819,43376,4431,1,3217,Simmons University,Group_D,1,8.5
+670,49819,43376,4431,1,3217,Adelphi University,Group_D,0,0
+578,55612,34641,3697,2,1612,Princeton University,Group_A,0,0
+578,55612,34641,3697,2,1612,Massachusetts Institute of Technology,Group_A,0,0
+578,55612,34641,3697,2,1612,Harvard University,Group_A,0,0
+578,55612,34641,3697,2,1612,Howard University,Group_B,0,0
+578,55612,34641,3697,2,1612,Tuskegee University,Group_B,0,0
+578,55612,34641,3697,2,1612,Florida A&M University,Group_B,0,0
+578,55612,34641,3697,2,1612,Texas Christian University,Group_C,0,0
+578,55612,34641,3697,2,1612,Auburn University,Group_C,0,0
+578,55612,34641,3697,2,1612,Temple University,Group_C,0,0
+578,55612,34641,3697,2,1612,Hofstra University,Group_D,0,0
+578,55612,34641,3697,2,1612,Simmons University,Group_D,0,0
+578,55612,34641,3697,2,1612,Adelphi University,Group_D,0,0
+689,53034,47146,1541,1,3494,Princeton University,Group_A,0,0
+689,53034,47146,1541,1,3494,Massachusetts Institute of Technology,Group_A,1,8.5
+689,53034,47146,1541,1,3494,Harvard University,Group_A,1,8.5
+689,53034,47146,1541,1,3494,Howard University,Group_B,0,0
+689,53034,47146,1541,1,3494,Tuskegee University,Group_B,1,8.5
+689,53034,47146,1541,1,3494,Florida A&M University,Group_B,1,8.5
+689,53034,47146,1541,1,3494,Texas Christian University,Group_C,0,0
+689,53034,47146,1541,1,3494,Auburn University,Group_C,1,8.5
+689,53034,47146,1541,1,3494,Temple University,Group_C,1,8.5
+689,53034,47146,1541,1,3494,Hofstra University,Group_D,0,0
+689,53034,47146,1541,1,3494,Simmons University,Group_D,0,0
+689,53034,47146,1541,1,3494,Adelphi University,Group_D,0,0
+681,59713,17630,4248,1,1864,Princeton University,Group_A,1,7.5
+681,59713,17630,4248,1,1864,Massachusetts Institute of Technology,Group_A,1,7.5
+681,59713,17630,4248,1,1864,Harvard University,Group_A,1,7.5
+681,59713,17630,4248,1,1864,Howard University,Group_B,1,7.5
+681,59713,17630,4248,1,1864,Tuskegee University,Group_B,1,7.5
+681,59713,17630,4248,1,1864,Florida A&M University,Group_B,1,7.5
+681,59713,17630,4248,1,1864,Texas Christian University,Group_C,1,7.5
+681,59713,17630,4248,1,1864,Auburn University,Group_C,1,7.5
+681,59713,17630,4248,1,1864,Temple University,Group_C,1,7.5
+681,59713,17630,4248,1,1864,Hofstra University,Group_D,1,7.5
+681,59713,17630,4248,1,1864,Simmons University,Group_D,1,7.5
+681,59713,17630,4248,1,1864,Adelphi University,Group_D,1,7.5
+712,60802,37670,1301,2,1657,Harvard University,Group_A,1,7.5
+712,60802,37670,1301,2,1657,Howard University,Group_B,1,7.5
+712,60802,37670,1301,2,1657,Tuskegee University,Group_B,1,7.5
+712,60802,37670,1301,2,1657,Florida A&M University,Group_B,1,7.5
+712,60802,37670,1301,2,1657,Texas Christian University,Group_C,1,7.5
+712,60802,37670,1301,2,1657,Auburn University,Group_C,1,7.5
+712,60802,37670,1301,2,1657,Temple University,Group_C,1,7.5
+712,60802,37670,1301,2,1657,Hofstra University,Group_D,1,7.5
+712,60802,37670,1301,2,1657,Simmons University,Group_D,1,7.5
+712,60802,37670,1301,2,1657,Adelphi University,Group_D,1,7.5
+569,73321,54043,4249,1,3478,Princeton University,Group_A,0,0
+569,73321,54043,4249,1,3478,Massachusetts Institute of Technology,Group_A,0,0
+569,73321,54043,4249,1,3478,Harvard University,Group_A,0,0
+569,73321,54043,4249,1,3478,Howard University,Group_B,0,0
+569,73321,54043,4249,1,3478,Tuskegee University,Group_B,0,0
+569,73321,54043,4249,1,3478,Florida A&M University,Group_B,0,0
+569,73321,54043,4249,1,3478,Texas Christian University,Group_C,0,0
+569,73321,54043,4249,1,3478,Auburn University,Group_C,0,0
+569,73321,54043,4249,1,3478,Temple University,Group_C,0,0
+569,73321,54043,4249,1,3478,Hofstra University,Group_D,0,0
+569,73321,54043,4249,1,3478,Simmons University,Group_D,0,0
+569,73321,54043,4249,1,3478,Adelphi University,Group_D,0,0
+552,63640,52411,2837,2,3081,Princeton University,Group_A,0,0
+552,63640,52411,2837,2,3081,Massachusetts Institute of Technology,Group_A,0,0
+552,63640,52411,2837,2,3081,Harvard University,Group_A,0,0
+552,63640,52411,2837,2,3081,Howard University,Group_B,0,0
+552,63640,52411,2837,2,3081,Tuskegee University,Group_B,0,0
+552,63640,52411,2837,2,3081,Florida A&M University,Group_B,0,0
+552,63640,52411,2837,2,3081,Texas Christian University,Group_C,0,0
+552,63640,52411,2837,2,3081,Auburn University,Group_C,0,0
+552,63640,52411,2837,2,3081,Temple University,Group_C,0,0
+552,63640,52411,2837,2,3081,Hofstra University,Group_D,0,0
+552,63640,52411,2837,2,3081,Simmons University,Group_D,0,0
+552,63640,52411,2837,2,3081,Adelphi University,Group_D,0,0
+623,60952,36656,4952,3,1039,Princeton University,Group_A,1,8.5
+623,60952,36656,4952,3,1039,Massachusetts Institute of Technology,Group_A,1,8.5
+623,60952,36656,4952,3,1039,Harvard University,Group_A,1,8.5
+623,60952,36656,4952,3,1039,Howard University,Group_B,0,0
+623,60952,36656,4952,3,1039,Tuskegee University,Group_B,1,8.5
+623,60952,36656,4952,3,1039,Florida A&M University,Group_B,1,8.5
+623,60952,36656,4952,3,1039,Texas Christian University,Group_C,1,8.5
+623,60952,36656,4952,3,1039,Auburn University,Group_C,1,8.5
+623,60952,36656,4952,3,1039,Temple University,Group_C,0,0
+623,60952,36656,4952,3,1039,Hofstra University,Group_D,0,0
+623,60952,36656,4952,3,1039,Simmons University,Group_D,1,8.5
+623,60952,36656,4952,3,1039,Adelphi University,Group_D,1,8.5
+594,54045,27600,4817,1,1894,Princeton University,Group_A,0,0
+594,54045,27600,4817,1,1894,Massachusetts Institute of Technology,Group_A,0,0
+594,54045,27600,4817,1,1894,Harvard University,Group_A,0,0
+594,54045,27600,4817,1,1894,Howard University,Group_B,0,0
+594,54045,27600,4817,1,1894,Tuskegee University,Group_B,0,0
+594,54045,27600,4817,1,1894,Florida A&M University,Group_B,0,0
+594,54045,27600,4817,1,1894,Texas Christian University,Group_C,0,0
+594,54045,27600,4817,1,1894,Auburn University,Group_C,0,0
+594,54045,27600,4817,1,1894,Temple University,Group_C,0,0
+594,54045,27600,4817,1,1894,Hofstra University,Group_D,0,0
+594,54045,27600,4817,1,1894,Simmons University,Group_D,0,0
+594,54045,27600,4817,1,1894,Adelphi University,Group_D,0,0
+576,67233,30368,3529,2,2536,Princeton University,Group_A,0,0
+576,67233,30368,3529,2,2536,Massachusetts Institute of Technology,Group_A,0,0
+576,67233,30368,3529,2,2536,Harvard University,Group_A,0,0
+576,67233,30368,3529,2,2536,Howard University,Group_B,0,0
+576,67233,30368,3529,2,2536,Tuskegee University,Group_B,0,0
+576,67233,30368,3529,2,2536,Florida A&M University,Group_B,0,0
+576,67233,30368,3529,2,2536,Texas Christian University,Group_C,0,0
+576,67233,30368,3529,2,2536,Auburn University,Group_C,0,0
+576,67233,30368,3529,2,2536,Temple University,Group_C,0,0
+576,67233,30368,3529,2,2536,Hofstra University,Group_D,0,0
+576,67233,30368,3529,2,2536,Simmons University,Group_D,0,0
+576,67233,30368,3529,2,2536,Adelphi University,Group_D,0,0
+595,52792,17139,4363,1,3377,Princeton University,Group_A,0,0
+595,52792,17139,4363,1,3377,Massachusetts Institute of Technology,Group_A,0,0
+595,52792,17139,4363,1,3377,Harvard University,Group_A,0,0
+595,52792,17139,4363,1,3377,Howard University,Group_B,0,0
+595,52792,17139,4363,1,3377,Tuskegee University,Group_B,0,0
+595,52792,17139,4363,1,3377,Florida A&M University,Group_B,0,0
+595,52792,17139,4363,1,3377,Texas Christian University,Group_C,0,0
+595,52792,17139,4363,1,3377,Auburn University,Group_C,0,0
+595,52792,17139,4363,1,3377,Temple University,Group_C,0,0
+595,52792,17139,4363,1,3377,Hofstra University,Group_D,0,0
+595,52792,17139,4363,1,3377,Simmons University,Group_D,0,0
+595,52792,17139,4363,1,3377,Adelphi University,Group_D,0,0
+662,61926,59230,3679,2,2828,Princeton University,Group_A,0,0
+662,61926,59230,3679,2,2828,Massachusetts Institute of Technology,Group_A,0,0
+662,61926,59230,3679,2,2828,Harvard University,Group_A,1,8.5
+662,61926,59230,3679,2,2828,Howard University,Group_B,0,0
+662,61926,59230,3679,2,2828,Tuskegee University,Group_B,0,0
+662,61926,59230,3679,2,2828,Florida A&M University,Group_B,0,0
+662,61926,59230,3679,2,2828,Texas Christian University,Group_C,0,0
+662,61926,59230,3679,2,2828,Auburn University,Group_C,0,0
+662,61926,59230,3679,2,2828,Temple University,Group_C,0,0
+662,61926,59230,3679,2,2828,Hofstra University,Group_D,0,0
+662,61926,59230,3679,2,2828,Simmons University,Group_D,0,0
+662,61926,59230,3679,2,2828,Adelphi University,Group_D,0,0
+676,49887,56452,2153,3,2637,Princeton University,Group_A,0,0
+676,49887,56452,2153,3,2637,Massachusetts Institute of Technology,Group_A,0,0
+676,49887,56452,2153,3,2637,Harvard University,Group_A,0,0
+676,49887,56452,2153,3,2637,Howard University,Group_B,0,0
+676,49887,56452,2153,3,2637,Tuskegee University,Group_B,0,0
+676,49887,56452,2153,3,2637,Florida A&M University,Group_B,0,0
+676,49887,56452,2153,3,2637,Texas Christian University,Group_C,0,0
+676,49887,56452,2153,3,2637,Auburn University,Group_C,0,0
+676,49887,56452,2153,3,2637,Temple University,Group_C,0,0
+676,49887,56452,2153,3,2637,Hofstra University,Group_D,0,0
+676,49887,56452,2153,3,2637,Simmons University,Group_D,0,0
+676,49887,56452,2153,3,2637,Adelphi University,Group_D,1,8.5
+643,68735,47780,3778,1,1511,Princeton University,Group_A,1,8.5
+643,68735,47780,3778,1,1511,Massachusetts Institute of Technology,Group_A,1,8.5
+643,68735,47780,3778,1,1511,Harvard University,Group_A,1,8.5
+643,68735,47780,3778,1,1511,Howard University,Group_B,1,8.5
+643,68735,47780,3778,1,1511,Tuskegee University,Group_B,1,8.5
+643,68735,47780,3778,1,1511,Florida A&M University,Group_B,1,8.5
+643,68735,47780,3778,1,1511,Texas Christian University,Group_C,0,0
+643,68735,47780,3778,1,1511,Auburn University,Group_C,1,8.5
+643,68735,47780,3778,1,1511,Temple University,Group_C,0,0
+643,68735,47780,3778,1,1511,Hofstra University,Group_D,0,0
+643,68735,47780,3778,1,1511,Simmons University,Group_D,1,8.5
+643,68735,47780,3778,1,1511,Adelphi University,Group_D,1,8.5
+685,51669,48747,1518,1,2187,Princeton University,Group_A,1,8.5
+685,51669,48747,1518,1,2187,Massachusetts Institute of Technology,Group_A,1,8.5
+685,51669,48747,1518,1,2187,Harvard University,Group_A,1,8.5
+685,51669,48747,1518,1,2187,Howard University,Group_B,1,8.5
+685,51669,48747,1518,1,2187,Tuskegee University,Group_B,0,0
+685,51669,48747,1518,1,2187,Florida A&M University,Group_B,1,8.5
+685,51669,48747,1518,1,2187,Texas Christian University,Group_C,1,8.5
+685,51669,48747,1518,1,2187,Auburn University,Group_C,1,8.5
+685,51669,48747,1518,1,2187,Temple University,Group_C,1,8.5
+685,51669,48747,1518,1,2187,Hofstra University,Group_D,1,8.5
+685,51669,48747,1518,1,2187,Simmons University,Group_D,1,8.5
+685,51669,48747,1518,1,2187,Adelphi University,Group_D,1,8.5
+597,69721,14000,3802,1,3139,Princeton University,Group_A,0,0
+597,69721,14000,3802,1,3139,Massachusetts Institute of Technology,Group_A,0,0
+597,69721,14000,3802,1,3139,Harvard University,Group_A,0,0
+597,69721,14000,3802,1,3139,Howard University,Group_B,0,0
+597,69721,14000,3802,1,3139,Tuskegee University,Group_B,0,0
+597,69721,14000,3802,1,3139,Florida A&M University,Group_B,0,0
+597,69721,14000,3802,1,3139,Texas Christian University,Group_C,0,0
+597,69721,14000,3802,1,3139,Auburn University,Group_C,0,0
+597,69721,14000,3802,1,3139,Temple University,Group_C,0,0
+597,69721,14000,3802,1,3139,Hofstra University,Group_D,0,0
+597,69721,14000,3802,1,3139,Simmons University,Group_D,0,0
+597,69721,14000,3802,1,3139,Adelphi University,Group_D,0,0
+736,61419,12119,1533,2,2312,Princeton University,Group_A,1,7
+736,61419,12119,1533,2,2312,Massachusetts Institute of Technology,Group_A,1,7
+736,61419,12119,1533,2,2312,Harvard University,Group_A,1,7
+736,61419,12119,1533,2,2312,Howard University,Group_B,1,7
+736,61419,12119,1533,2,2312,Tuskegee University,Group_B,1,7
+736,61419,12119,1533,2,2312,Florida A&M University,Group_B,1,7
+736,61419,12119,1533,2,2312,Texas Christian University,Group_C,1,7
+736,61419,12119,1533,2,2312,Auburn University,Group_C,1,7
+736,61419,12119,1533,2,2312,Temple University,Group_C,1,7
+736,61419,12119,1533,2,2312,Hofstra University,Group_D,1,7
+736,61419,12119,1533,2,2312,Simmons University,Group_D,1,7
+736,61419,12119,1533,2,2312,Adelphi University,Group_D,1,7
+650,67498,15188,2345,3,2278,Princeton University,Group_A,0,0
+650,67498,15188,2345,3,2278,Massachusetts Institute of Technology,Group_A,1,8.5
+650,67498,15188,2345,3,2278,Harvard University,Group_A,1,8.5
+650,67498,15188,2345,3,2278,Howard University,Group_B,1,8.5
+650,67498,15188,2345,3,2278,Tuskegee University,Group_B,0,0
+650,67498,15188,2345,3,2278,Florida A&M University,Group_B,1,8.5
+650,67498,15188,2345,3,2278,Texas Christian University,Group_C,0,0
+650,67498,15188,2345,3,2278,Auburn University,Group_C,0,0
+650,67498,15188,2345,3,2278,Temple University,Group_C,0,0
+650,67498,15188,2345,3,2278,Hofstra University,Group_D,0,0
+650,67498,15188,2345,3,2278,Simmons University,Group_D,0,0
+650,67498,15188,2345,3,2278,Adelphi University,Group_D,0,0
+706,57158,47239,1807,2,1281,Princeton University,Group_A,1,7.5
+706,57158,47239,1807,2,1281,Massachusetts Institute of Technology,Group_A,1,7.5
+706,57158,47239,1807,2,1281,Harvard University,Group_A,1,7.5
+706,57158,47239,1807,2,1281,Howard University,Group_B,1,7.5
+706,57158,47239,1807,2,1281,Tuskegee University,Group_B,1,7.5
+706,57158,47239,1807,2,1281,Florida A&M University,Group_B,1,7.5
+706,57158,47239,1807,2,1281,Texas Christian University,Group_C,1,7.5
+706,57158,47239,1807,2,1281,Auburn University,Group_C,1,7.5
+706,57158,47239,1807,2,1281,Temple University,Group_C,1,7.5
+706,57158,47239,1807,2,1281,Hofstra University,Group_D,1,7.5
+706,57158,47239,1807,2,1281,Simmons University,Group_D,1,7.5
+706,57158,47239,1807,2,1281,Adelphi University,Group_D,1,7.5
+687,51344,34019,1820,2,2421,Princeton University,Group_A,1,8.5
+687,51344,34019,1820,2,2421,Massachusetts Institute of Technology,Group_A,1,8.5
+687,51344,34019,1820,2,2421,Harvard University,Group_A,1,8.5
+687,51344,34019,1820,2,2421,Howard University,Group_B,1,8.5
+687,51344,34019,1820,2,2421,Tuskegee University,Group_B,1,8.5
+687,51344,34019,1820,2,2421,Florida A&M University,Group_B,1,8.5
+687,51344,34019,1820,2,2421,Texas Christian University,Group_C,1,8.5
+687,51344,34019,1820,2,2421,Auburn University,Group_C,1,8.5
+687,51344,34019,1820,2,2421,Temple University,Group_C,1,8.5
+687,51344,34019,1820,2,2421,Hofstra University,Group_D,1,8.5
+687,51344,34019,1820,2,2421,Simmons University,Group_D,1,8
+687,51344,34019,1820,2,2421,Adelphi University,Group_D,1,8.5
+550,69991,59571,1157,1,1782,Princeton University,Group_A,0,0
+550,69991,59571,1157,1,1782,Massachusetts Institute of Technology,Group_A,0,0
+550,69991,59571,1157,1,1782,Harvard University,Group_A,0,0
+550,69991,59571,1157,1,1782,Howard University,Group_B,0,0
+550,69991,59571,1157,1,1782,Tuskegee University,Group_B,0,0
+550,69991,59571,1157,1,1782,Florida A&M University,Group_B,0,0
+550,69991,59571,1157,1,1782,Texas Christian University,Group_C,0,0
+550,69991,59571,1157,1,1782,Auburn University,Group_C,0,0
+550,69991,59571,1157,1,1782,Temple University,Group_C,0,0
+550,69991,59571,1157,1,1782,Hofstra University,Group_D,0,0
+550,69991,59571,1157,1,1782,Simmons University,Group_D,0,0
+550,69991,59571,1157,1,1782,Adelphi University,Group_D,0,0
+746,54187,43729,3434,3,1731,Princeton University,Group_A,1,7
+746,54187,43729,3434,3,1731,Massachusetts Institute of Technology,Group_A,1,7
+746,54187,43729,3434,3,1731,Harvard University,Group_A,1,7
+746,54187,43729,3434,3,1731,Howard University,Group_B,1,7
+746,54187,43729,3434,3,1731,Tuskegee University,Group_B,1,7
+746,54187,43729,3434,3,1731,Florida A&M University,Group_B,1,7
+746,54187,43729,3434,3,1731,Texas Christian University,Group_C,1,7
+746,54187,43729,3434,3,1731,Auburn University,Group_C,1,7
+746,54187,43729,3434,3,1731,Temple University,Group_C,1,7
+746,54187,43729,3434,3,1731,Hofstra University,Group_D,1,7
+746,54187,43729,3434,3,1731,Simmons University,Group_D,1,7
+746,54187,43729,3434,3,1731,Adelphi University,Group_D,1,7
+574,54468,41926,3361,1,1934,Princeton University,Group_A,0,0
+574,54468,41926,3361,1,1934,Massachusetts Institute of Technology,Group_A,0,0
+574,54468,41926,3361,1,1934,Harvard University,Group_A,0,0
+574,54468,41926,3361,1,1934,Howard University,Group_B,0,0
+574,54468,41926,3361,1,1934,Tuskegee University,Group_B,0,0
+574,54468,41926,3361,1,1934,Florida A&M University,Group_B,0,0
+574,54468,41926,3361,1,1934,Texas Christian University,Group_C,0,0
+574,54468,41926,3361,1,1934,Auburn University,Group_C,0,0
+574,54468,41926,3361,1,1934,Temple University,Group_C,0,0
+574,54468,41926,3361,1,1934,Hofstra University,Group_D,0,0
+574,54468,41926,3361,1,1934,Simmons University,Group_D,0,0
+574,54468,41926,3361,1,1934,Adelphi University,Group_D,0,0
+565,53541,56547,1407,2,2918,Princeton University,Group_A,0,0
+565,53541,56547,1407,2,2918,Massachusetts Institute of Technology,Group_A,0,0
+565,53541,56547,1407,2,2918,Harvard University,Group_A,0,0
+565,53541,56547,1407,2,2918,Howard University,Group_B,0,0
+565,53541,56547,1407,2,2918,Tuskegee University,Group_B,0,0
+565,53541,56547,1407,2,2918,Florida A&M University,Group_B,0,0
+565,53541,56547,1407,2,2918,Texas Christian University,Group_C,0,0
+565,53541,56547,1407,2,2918,Auburn University,Group_C,0,0
+565,53541,56547,1407,2,2918,Temple University,Group_C,0,0
+565,53541,56547,1407,2,2918,Hofstra University,Group_D,0,0
+565,53541,56547,1407,2,2918,Simmons University,Group_D,0,0
+565,53541,56547,1407,2,2918,Adelphi University,Group_D,0,0
+633,60052,21790,3343,2,3259,Princeton University,Group_A,0,0
+633,60052,21790,3343,2,3259,Massachusetts Institute of Technology,Group_A,0,0
+633,60052,21790,3343,2,3259,Harvard University,Group_A,0,0
+633,60052,21790,3343,2,3259,Howard University,Group_B,0,0
+633,60052,21790,3343,2,3259,Tuskegee University,Group_B,0,0
+633,60052,21790,3343,2,3259,Florida A&M University,Group_B,0,0
+633,60052,21790,3343,2,3259,Texas Christian University,Group_C,0,0
+633,60052,21790,3343,2,3259,Auburn University,Group_C,0,0
+633,60052,21790,3343,2,3259,Temple University,Group_C,0,0
+633,60052,21790,3343,2,3259,Hofstra University,Group_D,0,0
+633,60052,21790,3343,2,3259,Simmons University,Group_D,0,0
+633,60052,21790,3343,2,3259,Adelphi University,Group_D,0,0
+664,71746,32372,1952,3,3403,Princeton University,Group_A,1,8.5
+664,71746,32372,1952,3,3403,Massachusetts Institute of Technology,Group_A,1,7.5
+664,71746,32372,1952,3,3403,Harvard University,Group_A,1,8.5
+664,71746,32372,1952,3,3403,Howard University,Group_B,1,8.5
+664,71746,32372,1952,3,3403,Tuskegee University,Group_B,1,8.5
+664,71746,32372,1952,3,3403,Florida A&M University,Group_B,1,8.5
+664,71746,32372,1952,3,3403,Texas Christian University,Group_C,1,8.5
+664,71746,32372,1952,3,3403,Auburn University,Group_C,1,8.5
+664,71746,32372,1952,3,3403,Temple University,Group_C,1,8.5
+664,71746,32372,1952,3,3403,Hofstra University,Group_D,1,8
+664,71746,32372,1952,3,3403,Simmons University,Group_D,1,8.5
+664,71746,32372,1952,3,3403,Adelphi University,Group_D,1,8.5
+733,57403,43125,1480,3,1080,Princeton University,Group_A,1,7.5
+733,57403,43125,1480,3,1080,Massachusetts Institute of Technology,Group_A,1,7
+733,57403,43125,1480,3,1080,Harvard University,Group_A,1,7
+733,57403,43125,1480,3,1080,Howard University,Group_B,1,7.5
+733,57403,43125,1480,3,1080,Tuskegee University,Group_B,1,7.5
+733,57403,43125,1480,3,1080,Florida A&M University,Group_B,1,7.5
+733,57403,43125,1480,3,1080,Texas Christian University,Group_C,1,7.5
+733,57403,43125,1480,3,1080,Auburn University,Group_C,1,7
+733,57403,43125,1480,3,1080,Temple University,Group_C,1,7
+733,57403,43125,1480,3,1080,Hofstra University,Group_D,1,7.5
+733,57403,43125,1480,3,1080,Simmons University,Group_D,1,7
+733,57403,43125,1480,3,1080,Adelphi University,Group_D,1,7
+671,46626,57610,3172,3,1290,Princeton University,Group_A,0,0
+671,46626,57610,3172,3,1290,Massachusetts Institute of Technology,Group_A,1,8.5
+671,46626,57610,3172,3,1290,Harvard University,Group_A,0,0
+671,46626,57610,3172,3,1290,Howard University,Group_B,0,0
+671,46626,57610,3172,3,1290,Tuskegee University,Group_B,0,0
+671,46626,57610,3172,3,1290,Florida A&M University,Group_B,0,0
+671,46626,57610,3172,3,1290,Texas Christian University,Group_C,0,0
+671,46626,57610,3172,3,1290,Auburn University,Group_C,1,8.5
+671,46626,57610,3172,3,1290,Temple University,Group_C,1,8.5
+671,46626,57610,3172,3,1290,Hofstra University,Group_D,0,0
+671,46626,57610,3172,3,1290,Simmons University,Group_D,0,0
+671,46626,57610,3172,3,1290,Adelphi University,Group_D,0,0
+711,71257,28302,4990,1,2531,Princeton University,Group_A,1,7
+711,71257,28302,4990,1,2531,Massachusetts Institute of Technology,Group_A,1,7
+711,71257,28302,4990,1,2531,Harvard University,Group_A,1,7
+711,71257,28302,4990,1,2531,Howard University,Group_B,1,7
+711,71257,28302,4990,1,2531,Tuskegee University,Group_B,1,7
+711,71257,28302,4990,1,2531,Florida A&M University,Group_B,1,7
+711,71257,28302,4990,1,2531,Texas Christian University,Group_C,1,7
+711,71257,28302,4990,1,2531,Auburn University,Group_C,1,7
+711,71257,28302,4990,1,2531,Temple University,Group_C,1,7.5
+711,71257,28302,4990,1,2531,Hofstra University,Group_D,1,7
+711,71257,28302,4990,1,2531,Simmons University,Group_D,1,7
+711,71257,28302,4990,1,2531,Adelphi University,Group_D,1,7.5
+598,71499,34806,1274,3,1280,Princeton University,Group_A,0,0
+598,71499,34806,1274,3,1280,Massachusetts Institute of Technology,Group_A,0,0
+598,71499,34806,1274,3,1280,Harvard University,Group_A,0,0
+598,71499,34806,1274,3,1280,Howard University,Group_B,0,0
+598,71499,34806,1274,3,1280,Tuskegee University,Group_B,0,0
+598,71499,34806,1274,3,1280,Florida A&M University,Group_B,0,0
+598,71499,34806,1274,3,1280,Texas Christian University,Group_C,0,0
+598,71499,34806,1274,3,1280,Auburn University,Group_C,0,0
+598,71499,34806,1274,3,1280,Temple University,Group_C,0,0
+598,71499,34806,1274,3,1280,Hofstra University,Group_D,0,0
+598,71499,34806,1274,3,1280,Simmons University,Group_D,0,0
+598,71499,34806,1274,3,1280,Adelphi University,Group_D,0,0
+694,45030,10454,3628,3,2017,Princeton University,Group_A,1,7.5
+694,45030,10454,3628,3,2017,Massachusetts Institute of Technology,Group_A,1,7.5
+694,45030,10454,3628,3,2017,Harvard University,Group_A,1,7.5
+694,45030,10454,3628,3,2017,Howard University,Group_B,0,0
+694,45030,10454,3628,3,2017,Tuskegee University,Group_B,1,8.5
+694,45030,10454,3628,3,2017,Florida A&M University,Group_B,1,8.5
+694,45030,10454,3628,3,2017,Texas Christian University,Group_C,0,0
+694,45030,10454,3628,3,2017,Auburn University,Group_C,1,8.5
+694,45030,10454,3628,3,2017,Temple University,Group_C,1,7.5
+694,45030,10454,3628,3,2017,Hofstra University,Group_D,0,0
+694,45030,10454,3628,3,2017,Simmons University,Group_D,1,8.5
+694,45030,10454,3628,3,2017,Adelphi University,Group_D,1,8.5
+556,74944,24134,1446,2,2571,Princeton University,Group_A,0,0
+556,74944,24134,1446,2,2571,Massachusetts Institute of Technology,Group_A,0,0
+556,74944,24134,1446,2,2571,Harvard University,Group_A,0,0
+556,74944,24134,1446,2,2571,Howard University,Group_B,0,0
+556,74944,24134,1446,2,2571,Tuskegee University,Group_B,0,0
+556,74944,24134,1446,2,2571,Florida A&M University,Group_B,0,0
+556,74944,24134,1446,2,2571,Texas Christian University,Group_C,0,0
+556,74944,24134,1446,2,2571,Auburn University,Group_C,0,0
+556,74944,24134,1446,2,2571,Temple University,Group_C,0,0
+556,74944,24134,1446,2,2571,Hofstra University,Group_D,0,0
+556,74944,24134,1446,2,2571,Simmons University,Group_D,0,0
+556,74944,24134,1446,2,2571,Adelphi University,Group_D,0,0
+575,66447,17885,2059,3,2365,Princeton University,Group_A,0,0
+575,66447,17885,2059,3,2365,Massachusetts Institute of Technology,Group_A,0,0
+575,66447,17885,2059,3,2365,Harvard University,Group_A,0,0
+575,66447,17885,2059,3,2365,Howard University,Group_B,0,0
+575,66447,17885,2059,3,2365,Tuskegee University,Group_B,0,0
+575,66447,17885,2059,3,2365,Florida A&M University,Group_B,0,0
+575,66447,17885,2059,3,2365,Texas Christian University,Group_C,0,0
+575,66447,17885,2059,3,2365,Auburn University,Group_C,0,0
+575,66447,17885,2059,3,2365,Temple University,Group_C,0,0
+575,66447,17885,2059,3,2365,Hofstra University,Group_D,0,0
+575,66447,17885,2059,3,2365,Simmons University,Group_D,0,0
+575,66447,17885,2059,3,2365,Adelphi University,Group_D,0,0
+710,52401,22810,2390,3,1357,Princeton University,Group_A,1,7.5
+710,52401,22810,2390,3,1357,Massachusetts Institute of Technology,Group_A,1,7.5
+710,52401,22810,2390,3,1357,Harvard University,Group_A,1,7.5
+710,52401,22810,2390,3,1357,Howard University,Group_B,1,7.5
+710,52401,22810,2390,3,1357,Tuskegee University,Group_B,1,7.5
+710,52401,22810,2390,3,1357,Florida A&M University,Group_B,1,7.5
+710,52401,22810,2390,3,1357,Texas Christian University,Group_C,1,7.5
+710,52401,22810,2390,3,1357,Auburn University,Group_C,1,7.5
+710,52401,22810,2390,3,1357,Temple University,Group_C,1,7.5
+710,52401,22810,2390,3,1357,Hofstra University,Group_D,1,7.5
+710,52401,22810,2390,3,1357,Simmons University,Group_D,1,7.5
+710,52401,22810,2390,3,1357,Adelphi University,Group_D,1,7.5
+695,65366,57686,4880,3,1435,Princeton University,Group_A,1,8.5
+695,65366,57686,4880,3,1435,Massachusetts Institute of Technology,Group_A,1,8.5
+695,65366,57686,4880,3,1435,Harvard University,Group_A,1,8.5
+695,65366,57686,4880,3,1435,Howard University,Group_B,1,8.5
+695,65366,57686,4880,3,1435,Tuskegee University,Group_B,1,8.5
+695,65366,57686,4880,3,1435,Florida A&M University,Group_B,1,8
+695,65366,57686,4880,3,1435,Texas Christian University,Group_C,1,8.5
+695,65366,57686,4880,3,1435,Auburn University,Group_C,1,7.5
+695,65366,57686,4880,3,1435,Temple University,Group_C,1,7.5
+695,65366,57686,4880,3,1435,Hofstra University,Group_D,1,8
+695,65366,57686,4880,3,1435,Simmons University,Group_D,1,8.5
+695,65366,57686,4880,3,1435,Adelphi University,Group_D,1,8.5
+587,55161,10781,3539,2,3443,Princeton University,Group_A,0,0
+587,55161,10781,3539,2,3443,Massachusetts Institute of Technology,Group_A,0,0
+587,55161,10781,3539,2,3443,Harvard University,Group_A,0,0
+587,55161,10781,3539,2,3443,Howard University,Group_B,0,0
+587,55161,10781,3539,2,3443,Tuskegee University,Group_B,0,0
+587,55161,10781,3539,2,3443,Florida A&M University,Group_B,0,0
+587,55161,10781,3539,2,3443,Texas Christian University,Group_C,0,0
+587,55161,10781,3539,2,3443,Auburn University,Group_C,0,0
+587,55161,10781,3539,2,3443,Temple University,Group_C,0,0
+587,55161,10781,3539,2,3443,Hofstra University,Group_D,0,0
+587,55161,10781,3539,2,3443,Simmons University,Group_D,0,0
+587,55161,10781,3539,2,3443,Adelphi University,Group_D,0,0
+630,66545,48362,1158,3,2573,Princeton University,Group_A,0,0
+630,66545,48362,1158,3,2573,Massachusetts Institute of Technology,Group_A,0,0
+630,66545,48362,1158,3,2573,Harvard University,Group_A,0,0
+630,66545,48362,1158,3,2573,Howard University,Group_B,0,0
+630,66545,48362,1158,3,2573,Tuskegee University,Group_B,0,0
+630,66545,48362,1158,3,2573,Florida A&M University,Group_B,0,0
+630,66545,48362,1158,3,2573,Texas Christian University,Group_C,0,0
+630,66545,48362,1158,3,2573,Auburn University,Group_C,0,0
+630,66545,48362,1158,3,2573,Temple University,Group_C,0,0
+630,66545,48362,1158,3,2573,Hofstra University,Group_D,0,0
+630,66545,48362,1158,3,2573,Simmons University,Group_D,0,0
+630,66545,48362,1158,3,2573,Adelphi University,Group_D,0,0
+714,49758,45155,1774,2,1090,Princeton University,Group_A,1,7.5
+714,49758,45155,1774,2,1090,Massachusetts Institute of Technology,Group_A,1,7.5
+714,49758,45155,1774,2,1090,Harvard University,Group_A,1,7.5
+714,49758,45155,1774,2,1090,Howard University,Group_B,1,7.5
+714,49758,45155,1774,2,1090,Tuskegee University,Group_B,1,7.5
+714,49758,45155,1774,2,1090,Florida A&M University,Group_B,1,7.5
+714,49758,45155,1774,2,1090,Texas Christian University,Group_C,1,8
+714,49758,45155,1774,2,1090,Auburn University,Group_C,1,7.5
+714,49758,45155,1774,2,1090,Temple University,Group_C,1,7.5
+714,49758,45155,1774,2,1090,Hofstra University,Group_D,1,8
+714,49758,45155,1774,2,1090,Simmons University,Group_D,1,7.5
+714,49758,45155,1774,2,1090,Adelphi University,Group_D,1,7.5
+632,70255,32447,3548,2,2756,Princeton University,Group_A,1,8.5
+632,70255,32447,3548,2,2756,Massachusetts Institute of Technology,Group_A,1,8.5
+632,70255,32447,3548,2,2756,Harvard University,Group_A,1,8.5
+632,70255,32447,3548,2,2756,Howard University,Group_B,0,0
+632,70255,32447,3548,2,2756,Tuskegee University,Group_B,0,0
+632,70255,32447,3548,2,2756,Florida A&M University,Group_B,1,8.5
+632,70255,32447,3548,2,2756,Texas Christian University,Group_C,0,0
+632,70255,32447,3548,2,2756,Auburn University,Group_C,0,0
+632,70255,32447,3548,2,2756,Temple University,Group_C,0,0
+632,70255,32447,3548,2,2756,Hofstra University,Group_D,0,0
+632,70255,32447,3548,2,2756,Simmons University,Group_D,0,0
+632,70255,32447,3548,2,2756,Adelphi University,Group_D,0,0
+571,58662,41797,2659,3,1530,Princeton University,Group_A,0,0
+571,58662,41797,2659,3,1530,Massachusetts Institute of Technology,Group_A,0,0
+571,58662,41797,2659,3,1530,Harvard University,Group_A,0,0
+571,58662,41797,2659,3,1530,Howard University,Group_B,0,0
+571,58662,41797,2659,3,1530,Tuskegee University,Group_B,0,0
+571,58662,41797,2659,3,1530,Florida A&M University,Group_B,0,0
+571,58662,41797,2659,3,1530,Texas Christian University,Group_C,0,0
+571,58662,41797,2659,3,1530,Auburn University,Group_C,0,0
+571,58662,41797,2659,3,1530,Temple University,Group_C,0,0
+571,58662,41797,2659,3,1530,Hofstra University,Group_D,0,0
+571,58662,41797,2659,3,1530,Simmons University,Group_D,0,0
+571,58662,41797,2659,3,1530,Adelphi University,Group_D,0,0
+684,68553,26207,3542,2,2868,Princeton University,Group_A,1,8
+684,68553,26207,3542,2,2868,Massachusetts Institute of Technology,Group_A,1,8
+684,68553,26207,3542,2,2868,Harvard University,Group_A,1,8.5
+684,68553,26207,3542,2,2868,Howard University,Group_B,1,8.5
+684,68553,26207,3542,2,2868,Tuskegee University,Group_B,1,8.5
+684,68553,26207,3542,2,2868,Florida A&M University,Group_B,1,8.5
+684,68553,26207,3542,2,2868,Texas Christian University,Group_C,1,8.5
+684,68553,26207,3542,2,2868,Auburn University,Group_C,1,8
+684,68553,26207,3542,2,2868,Temple University,Group_C,1,8.5
+684,68553,26207,3542,2,2868,Hofstra University,Group_D,1,8.5
+684,68553,26207,3542,2,2868,Simmons University,Group_D,1,8.5
+684,68553,26207,3542,2,2868,Adelphi University,Group_D,1,8.5
+643,68891,17149,3513,1,2435,Princeton University,Group_A,0,0
+643,68891,17149,3513,1,2435,Massachusetts Institute of Technology,Group_A,1,8.5
+643,68891,17149,3513,1,2435,Harvard University,Group_A,1,8.5
+643,68891,17149,3513,1,2435,Howard University,Group_B,0,0
+643,68891,17149,3513,1,2435,Tuskegee University,Group_B,1,8.5
+643,68891,17149,3513,1,2435,Florida A&M University,Group_B,1,8.5
+643,68891,17149,3513,1,2435,Texas Christian University,Group_C,1,8.5
+643,68891,17149,3513,1,2435,Auburn University,Group_C,1,8.5
+643,68891,17149,3513,1,2435,Temple University,Group_C,1,8.5
+643,68891,17149,3513,1,2435,Hofstra University,Group_D,0,0
+643,68891,17149,3513,1,2435,Simmons University,Group_D,0,0
+643,68891,17149,3513,1,2435,Adelphi University,Group_D,1,8.5
+697,62744,21455,2264,3,1222,Princeton University,Group_A,1,7.5
+697,62744,21455,2264,3,1222,Massachusetts Institute of Technology,Group_A,1,7
+697,62744,21455,2264,3,1222,Harvard University,Group_A,1,7
+697,62744,21455,2264,3,1222,Howard University,Group_B,1,7.5
+697,62744,21455,2264,3,1222,Tuskegee University,Group_B,1,7.5
+697,62744,21455,2264,3,1222,Florida A&M University,Group_B,1,7.5
+697,62744,21455,2264,3,1222,Texas Christian University,Group_C,1,7.5
+697,62744,21455,2264,3,1222,Auburn University,Group_C,1,7
+697,62744,21455,2264,3,1222,Temple University,Group_C,1,7.5
+697,62744,21455,2264,3,1222,Hofstra University,Group_D,1,7.5
+697,62744,21455,2264,3,1222,Simmons University,Group_D,1,7
+697,62744,21455,2264,3,1222,Adelphi University,Group_D,1,7.5
+699,49281,10292,3562,1,2348,Princeton University,Group_A,1,8.5
+699,49281,10292,3562,1,2348,Massachusetts Institute of Technology,Group_A,1,7.5
+699,49281,10292,3562,1,2348,Harvard University,Group_A,1,7.5
+699,49281,10292,3562,1,2348,Howard University,Group_B,0,0
+699,49281,10292,3562,1,2348,Tuskegee University,Group_B,0,0
+699,49281,10292,3562,1,2348,Florida A&M University,Group_B,0,0
+699,49281,10292,3562,1,2348,Texas Christian University,Group_C,1,8.5
+699,49281,10292,3562,1,2348,Auburn University,Group_C,1,8
+699,49281,10292,3562,1,2348,Temple University,Group_C,0,0
+699,49281,10292,3562,1,2348,Hofstra University,Group_D,1,7.5
+699,49281,10292,3562,1,2348,Simmons University,Group_D,0,0
+699,49281,10292,3562,1,2348,Adelphi University,Group_D,0,0
+583,74130,57442,4585,2,1200,Princeton University,Group_A,0,0
+583,74130,57442,4585,2,1200,Massachusetts Institute of Technology,Group_A,0,0
+583,74130,57442,4585,2,1200,Harvard University,Group_A,0,0
+583,74130,57442,4585,2,1200,Howard University,Group_B,0,0
+583,74130,57442,4585,2,1200,Tuskegee University,Group_B,0,0
+583,74130,57442,4585,2,1200,Florida A&M University,Group_B,0,0
+583,74130,57442,4585,2,1200,Texas Christian University,Group_C,0,0
+583,74130,57442,4585,2,1200,Auburn University,Group_C,0,0
+583,74130,57442,4585,2,1200,Temple University,Group_C,0,0
+583,74130,57442,4585,2,1200,Hofstra University,Group_D,0,0
+583,74130,57442,4585,2,1200,Simmons University,Group_D,0,0
+583,74130,57442,4585,2,1200,Adelphi University,Group_D,0,0
+728,50359,19368,1503,1,2659,Princeton University,Group_A,1,7
+728,50359,19368,1503,1,2659,Massachusetts Institute of Technology,Group_A,1,7
+728,50359,19368,1503,1,2659,Harvard University,Group_A,1,7.5
+728,50359,19368,1503,1,2659,Howard University,Group_B,1,7.5
+728,50359,19368,1503,1,2659,Tuskegee University,Group_B,1,7.5
+728,50359,19368,1503,1,2659,Florida A&M University,Group_B,1,7.5
+728,50359,19368,1503,1,2659,Texas Christian University,Group_C,1,7
+728,50359,19368,1503,1,2659,Auburn University,Group_C,1,7
+728,50359,19368,1503,1,2659,Temple University,Group_C,1,7.5
+728,50359,19368,1503,1,2659,Hofstra University,Group_D,1,7.5
+728,50359,19368,1503,1,2659,Simmons University,Group_D,1,7.5
+728,50359,19368,1503,1,2659,Adelphi University,Group_D,1,7.5
+581,55256,38690,3458,3,2647,Princeton University,Group_A,0,0
+581,55256,38690,3458,3,2647,Massachusetts Institute of Technology,Group_A,0,0
+581,55256,38690,3458,3,2647,Harvard University,Group_A,0,0
+581,55256,38690,3458,3,2647,Howard University,Group_B,0,0
+581,55256,38690,3458,3,2647,Tuskegee University,Group_B,0,0
+581,55256,38690,3458,3,2647,Florida A&M University,Group_B,0,0
+581,55256,38690,3458,3,2647,Texas Christian University,Group_C,0,0
+581,55256,38690,3458,3,2647,Auburn University,Group_C,0,0
+581,55256,38690,3458,3,2647,Temple University,Group_C,0,0
+581,55256,38690,3458,3,2647,Hofstra University,Group_D,0,0
+581,55256,38690,3458,3,2647,Simmons University,Group_D,0,0
+581,55256,38690,3458,3,2647,Adelphi University,Group_D,0,0
+717,73627,21996,3533,1,1650,Princeton University,Group_A,1,7
+717,73627,21996,3533,1,1650,Massachusetts Institute of Technology,Group_A,1,7
+717,73627,21996,3533,1,1650,Harvard University,Group_A,1,7
+717,73627,21996,3533,1,1650,Howard University,Group_B,1,7
+717,73627,21996,3533,1,1650,Tuskegee University,Group_B,1,7
+717,73627,21996,3533,1,1650,Florida A&M University,Group_B,1,7
+717,73627,21996,3533,1,1650,Texas Christian University,Group_C,1,7
+717,73627,21996,3533,1,1650,Auburn University,Group_C,1,7
+717,73627,21996,3533,1,1650,Temple University,Group_C,1,7
+717,73627,21996,3533,1,1650,Hofstra University,Group_D,1,7
+717,73627,21996,3533,1,1650,Simmons University,Group_D,1,7
+717,73627,21996,3533,1,1650,Adelphi University,Group_D,1,7
+630,54462,48117,1472,1,2673,Princeton University,Group_A,0,0
+630,54462,48117,1472,1,2673,Massachusetts Institute of Technology,Group_A,0,0
+630,54462,48117,1472,1,2673,Harvard University,Group_A,0,0
+630,54462,48117,1472,1,2673,Howard University,Group_B,0,0
+630,54462,48117,1472,1,2673,Tuskegee University,Group_B,0,0
+630,54462,48117,1472,1,2673,Florida A&M University,Group_B,0,0
+630,54462,48117,1472,1,2673,Texas Christian University,Group_C,0,0
+630,54462,48117,1472,1,2673,Auburn University,Group_C,0,0
+630,54462,48117,1472,1,2673,Temple University,Group_C,0,0
+630,54462,48117,1472,1,2673,Hofstra University,Group_D,0,0
+630,54462,48117,1472,1,2673,Simmons University,Group_D,0,0
+630,54462,48117,1472,1,2673,Adelphi University,Group_D,0,0
+711,58867,10779,2676,2,3268,Princeton University,Group_A,1,7
+711,58867,10779,2676,2,3268,Massachusetts Institute of Technology,Group_A,1,7
+711,58867,10779,2676,2,3268,Harvard University,Group_A,1,7
+711,58867,10779,2676,2,3268,Howard University,Group_B,1,7.5
+711,58867,10779,2676,2,3268,Tuskegee University,Group_B,1,7.5
+711,58867,10779,2676,2,3268,Florida A&M University,Group_B,1,7
+711,58867,10779,2676,2,3268,Texas Christian University,Group_C,1,7.5
+711,58867,10779,2676,2,3268,Auburn University,Group_C,1,7
+711,58867,10779,2676,2,3268,Temple University,Group_C,1,7
+711,58867,10779,2676,2,3268,Hofstra University,Group_D,1,7
+711,58867,10779,2676,2,3268,Simmons University,Group_D,1,7
+711,58867,10779,2676,2,3268,Adelphi University,Group_D,1,7.5
+723,57921,37488,1085,2,1769,Princeton University,Group_A,1,7.5
+723,57921,37488,1085,2,1769,Massachusetts Institute of Technology,Group_A,1,7.5
+723,57921,37488,1085,2,1769,Harvard University,Group_A,1,7
+723,57921,37488,1085,2,1769,Howard University,Group_B,1,7.5
+723,57921,37488,1085,2,1769,Tuskegee University,Group_B,1,7.5
+723,57921,37488,1085,2,1769,Florida A&M University,Group_B,1,7.5
+723,57921,37488,1085,2,1769,Texas Christian University,Group_C,1,7.5
+723,57921,37488,1085,2,1769,Auburn University,Group_C,1,7
+723,57921,37488,1085,2,1769,Temple University,Group_C,1,7.5
+723,57921,37488,1085,2,1769,Hofstra University,Group_D,1,7.5
+723,57921,37488,1085,2,1769,Simmons University,Group_D,1,7
+723,57921,37488,1085,2,1769,Adelphi University,Group_D,1,7.5
+704,49745,32746,1446,1,2057,Princeton University,Group_A,1,7.5
+704,49745,32746,1446,1,2057,Massachusetts Institute of Technology,Group_A,1,7.5
+704,49745,32746,1446,1,2057,Harvard University,Group_A,1,7.5
+704,49745,32746,1446,1,2057,Howard University,Group_B,1,8
+704,49745,32746,1446,1,2057,Tuskegee University,Group_B,1,7.5
+704,49745,32746,1446,1,2057,Florida A&M University,Group_B,1,7.5
+704,49745,32746,1446,1,2057,Texas Christian University,Group_C,1,8.5
+704,49745,32746,1446,1,2057,Auburn University,Group_C,1,7.5
+704,49745,32746,1446,1,2057,Temple University,Group_C,1,7.5
+704,49745,32746,1446,1,2057,Hofstra University,Group_D,1,7.5
+704,49745,32746,1446,1,2057,Simmons University,Group_D,1,7.5
+704,49745,32746,1446,1,2057,Adelphi University,Group_D,1,8.5
+747,54612,46137,2947,1,2606,Princeton University,Group_A,1,7
+747,54612,46137,2947,1,2606,Massachusetts Institute of Technology,Group_A,1,7
+747,54612,46137,2947,1,2606,Harvard University,Group_A,1,7
+747,54612,46137,2947,1,2606,Howard University,Group_B,1,7
+747,54612,46137,2947,1,2606,Tuskegee University,Group_B,1,7
+747,54612,46137,2947,1,2606,Florida A&M University,Group_B,1,7
+747,54612,46137,2947,1,2606,Texas Christian University,Group_C,1,7
+747,54612,46137,2947,1,2606,Auburn University,Group_C,1,7
+747,54612,46137,2947,1,2606,Temple University,Group_C,1,7
+747,54612,46137,2947,1,2606,Hofstra University,Group_D,1,7
+747,54612,46137,2947,1,2606,Simmons University,Group_D,1,7
+747,54612,46137,2947,1,2606,Adelphi University,Group_D,1,7
+684,53057,24678,1944,2,1671,Princeton University,Group_A,1,8
+684,53057,24678,1944,2,1671,Massachusetts Institute of Technology,Group_A,1,8
+684,53057,24678,1944,2,1671,Harvard University,Group_A,1,8
+684,53057,24678,1944,2,1671,Howard University,Group_B,1,8.5
+684,53057,24678,1944,2,1671,Tuskegee University,Group_B,1,8.5
+684,53057,24678,1944,2,1671,Florida A&M University,Group_B,1,8.5
+684,53057,24678,1944,2,1671,Texas Christian University,Group_C,1,8.5
+684,53057,24678,1944,2,1671,Auburn University,Group_C,1,8.5
+684,53057,24678,1944,2,1671,Temple University,Group_C,1,8.5
+684,53057,24678,1944,2,1671,Hofstra University,Group_D,1,8.5
+684,53057,24678,1944,2,1671,Simmons University,Group_D,1,8.5
+684,53057,24678,1944,2,1671,Adelphi University,Group_D,1,8
+553,49627,32549,3946,1,2882,Princeton University,Group_A,0,0
+553,49627,32549,3946,1,2882,Massachusetts Institute of Technology,Group_A,0,0
+553,49627,32549,3946,1,2882,Harvard University,Group_A,0,0
+553,49627,32549,3946,1,2882,Howard University,Group_B,0,0
+553,49627,32549,3946,1,2882,Tuskegee University,Group_B,0,0
+553,49627,32549,3946,1,2882,Florida A&M University,Group_B,0,0
+553,49627,32549,3946,1,2882,Texas Christian University,Group_C,0,0
+553,49627,32549,3946,1,2882,Auburn University,Group_C,0,0
+553,49627,32549,3946,1,2882,Temple University,Group_C,0,0
+553,49627,32549,3946,1,2882,Hofstra University,Group_D,0,0
+553,49627,32549,3946,1,2882,Simmons University,Group_D,0,0
+553,49627,32549,3946,1,2882,Adelphi University,Group_D,0,0
+720,54793,31490,1690,2,2255,Princeton University,Group_A,1,7
+720,54793,31490,1690,2,2255,Massachusetts Institute of Technology,Group_A,1,7
+720,54793,31490,1690,2,2255,Harvard University,Group_A,1,7
+720,54793,31490,1690,2,2255,Howard University,Group_B,1,7.5
+720,54793,31490,1690,2,2255,Tuskegee University,Group_B,1,7.5
+720,54793,31490,1690,2,2255,Florida A&M University,Group_B,1,7.5
+720,54793,31490,1690,2,2255,Texas Christian University,Group_C,1,7.5
+720,54793,31490,1690,2,2255,Auburn University,Group_C,1,7.5
+720,54793,31490,1690,2,2255,Temple University,Group_C,1,7.5
+720,54793,31490,1690,2,2255,Hofstra University,Group_D,1,7.5
+720,54793,31490,1690,2,2255,Simmons University,Group_D,1,7.5
+720,54793,31490,1690,2,2255,Adelphi University,Group_D,1,7.5
+590,72269,22461,3062,1,2869,Princeton University,Group_A,0,0
+590,72269,22461,3062,1,2869,Massachusetts Institute of Technology,Group_A,0,0
+590,72269,22461,3062,1,2869,Harvard University,Group_A,0,0
+590,72269,22461,3062,1,2869,Howard University,Group_B,0,0
+590,72269,22461,3062,1,2869,Tuskegee University,Group_B,0,0
+590,72269,22461,3062,1,2869,Florida A&M University,Group_B,0,0
+590,72269,22461,3062,1,2869,Texas Christian University,Group_C,0,0
+590,72269,22461,3062,1,2869,Auburn University,Group_C,0,0
+590,72269,22461,3062,1,2869,Temple University,Group_C,0,0
+590,72269,22461,3062,1,2869,Hofstra University,Group_D,0,0
+590,72269,22461,3062,1,2869,Simmons University,Group_D,0,0
+590,72269,22461,3062,1,2869,Adelphi University,Group_D,0,0
+730,72814,38344,3268,1,1729,Princeton University,Group_A,1,7
+730,72814,38344,3268,1,1729,Massachusetts Institute of Technology,Group_A,1,7
+730,72814,38344,3268,1,1729,Harvard University,Group_A,1,7
+730,72814,38344,3268,1,1729,Howard University,Group_B,1,7
+730,72814,38344,3268,1,1729,Tuskegee University,Group_B,1,7
+730,72814,38344,3268,1,1729,Florida A&M University,Group_B,1,7
+730,72814,38344,3268,1,1729,Texas Christian University,Group_C,1,7
+730,72814,38344,3268,1,1729,Auburn University,Group_C,1,7.5
+730,72814,38344,3268,1,1729,Temple University,Group_C,1,7
+730,72814,38344,3268,1,1729,Hofstra University,Group_D,1,7
+730,72814,38344,3268,1,1729,Simmons University,Group_D,1,7
+730,72814,38344,3268,1,1729,Adelphi University,Group_D,1,7
+552,68532,44194,1578,2,2956,Princeton University,Group_A,0,0
+552,68532,44194,1578,2,2956,Massachusetts Institute of Technology,Group_A,0,0
+552,68532,44194,1578,2,2956,Harvard University,Group_A,0,0
+552,68532,44194,1578,2,2956,Howard University,Group_B,0,0
+552,68532,44194,1578,2,2956,Tuskegee University,Group_B,0,0
+552,68532,44194,1578,2,2956,Florida A&M University,Group_B,0,0
+552,68532,44194,1578,2,2956,Texas Christian University,Group_C,0,0
+552,68532,44194,1578,2,2956,Auburn University,Group_C,0,0
+552,68532,44194,1578,2,2956,Temple University,Group_C,0,0
+552,68532,44194,1578,2,2956,Hofstra University,Group_D,0,0
+552,68532,44194,1578,2,2956,Simmons University,Group_D,0,0
+552,68532,44194,1578,2,2956,Adelphi University,Group_D,0,0
+599,70121,31814,4227,2,2227,Princeton University,Group_A,0,0
+599,70121,31814,4227,2,2227,Massachusetts Institute of Technology,Group_A,0,0
+599,70121,31814,4227,2,2227,Harvard University,Group_A,0,0
+599,70121,31814,4227,2,2227,Howard University,Group_B,0,0
+599,70121,31814,4227,2,2227,Tuskegee University,Group_B,0,0
+599,70121,31814,4227,2,2227,Florida A&M University,Group_B,0,0
+599,70121,31814,4227,2,2227,Texas Christian University,Group_C,0,0
+599,70121,31814,4227,2,2227,Auburn University,Group_C,0,0
+599,70121,31814,4227,2,2227,Temple University,Group_C,0,0
+599,70121,31814,4227,2,2227,Hofstra University,Group_D,0,0
+599,70121,31814,4227,2,2227,Simmons University,Group_D,0,0
+599,70121,31814,4227,2,2227,Adelphi University,Group_D,0,0
+593,60071,55811,4324,1,3072,Princeton University,Group_A,0,0
+593,60071,55811,4324,1,3072,Massachusetts Institute of Technology,Group_A,0,0
+593,60071,55811,4324,1,3072,Harvard University,Group_A,0,0
+593,60071,55811,4324,1,3072,Howard University,Group_B,0,0
+593,60071,55811,4324,1,3072,Tuskegee University,Group_B,0,0
+593,60071,55811,4324,1,3072,Florida A&M University,Group_B,0,0
+593,60071,55811,4324,1,3072,Texas Christian University,Group_C,0,0
+593,60071,55811,4324,1,3072,Auburn University,Group_C,0,0
+593,60071,55811,4324,1,3072,Temple University,Group_C,0,0
+593,60071,55811,4324,1,3072,Hofstra University,Group_D,0,0
+593,60071,55811,4324,1,3072,Simmons University,Group_D,0,0
+593,60071,55811,4324,1,3072,Adelphi University,Group_D,0,0
+569,69116,43851,1378,3,2075,Princeton University,Group_A,0,0
+569,69116,43851,1378,3,2075,Massachusetts Institute of Technology,Group_A,0,0
+569,69116,43851,1378,3,2075,Harvard University,Group_A,0,0
+569,69116,43851,1378,3,2075,Howard University,Group_B,0,0
+569,69116,43851,1378,3,2075,Tuskegee University,Group_B,0,0
+569,69116,43851,1378,3,2075,Florida A&M University,Group_B,0,0
+569,69116,43851,1378,3,2075,Texas Christian University,Group_C,0,0
+569,69116,43851,1378,3,2075,Auburn University,Group_C,0,0
+569,69116,43851,1378,3,2075,Temple University,Group_C,0,0
+569,69116,43851,1378,3,2075,Hofstra University,Group_D,0,0
+569,69116,43851,1378,3,2075,Simmons University,Group_D,0,0
+569,69116,43851,1378,3,2075,Adelphi University,Group_D,0,0
+676,64363,52214,2935,1,1092,Princeton University,Group_A,1,7.5
+676,64363,52214,2935,1,1092,Massachusetts Institute of Technology,Group_A,1,8.5
+676,64363,52214,2935,1,1092,Harvard University,Group_A,1,8.5
+676,64363,52214,2935,1,1092,Howard University,Group_B,1,8.5
+676,64363,52214,2935,1,1092,Tuskegee University,Group_B,1,8.5
+676,64363,52214,2935,1,1092,Florida A&M University,Group_B,1,8.5
+676,64363,52214,2935,1,1092,Texas Christian University,Group_C,1,8.5
+676,64363,52214,2935,1,1092,Auburn University,Group_C,1,7.5
+676,64363,52214,2935,1,1092,Temple University,Group_C,1,8.5
+676,64363,52214,2935,1,1092,Hofstra University,Group_D,1,8.5
+676,64363,52214,2935,1,1092,Simmons University,Group_D,1,8.5
+676,64363,52214,2935,1,1092,Adelphi University,Group_D,1,8.5
+623,51763,14144,2541,2,2882,Princeton University,Group_A,0,0
+623,51763,14144,2541,2,2882,Massachusetts Institute of Technology,Group_A,0,0
+623,51763,14144,2541,2,2882,Harvard University,Group_A,1,8.5
+623,51763,14144,2541,2,2882,Howard University,Group_B,0,0
+623,51763,14144,2541,2,2882,Tuskegee University,Group_B,0,0
+623,51763,14144,2541,2,2882,Florida A&M University,Group_B,0,0
+623,51763,14144,2541,2,2882,Texas Christian University,Group_C,0,0
+623,51763,14144,2541,2,2882,Auburn University,Group_C,0,0
+623,51763,14144,2541,2,2882,Temple University,Group_C,0,0
+623,51763,14144,2541,2,2882,Hofstra University,Group_D,0,0
+623,51763,14144,2541,2,2882,Simmons University,Group_D,0,0
+623,51763,14144,2541,2,2882,Adelphi University,Group_D,0,0
+586,72425,37499,3647,3,3441,Princeton University,Group_A,0,0
+586,72425,37499,3647,3,3441,Massachusetts Institute of Technology,Group_A,0,0
+586,72425,37499,3647,3,3441,Harvard University,Group_A,0,0
+586,72425,37499,3647,3,3441,Howard University,Group_B,0,0
+586,72425,37499,3647,3,3441,Tuskegee University,Group_B,0,0
+586,72425,37499,3647,3,3441,Florida A&M University,Group_B,0,0
+586,72425,37499,3647,3,3441,Texas Christian University,Group_C,0,0
+586,72425,37499,3647,3,3441,Auburn University,Group_C,0,0
+586,72425,37499,3647,3,3441,Temple University,Group_C,0,0
+586,72425,37499,3647,3,3441,Hofstra University,Group_D,0,0
+586,72425,37499,3647,3,3441,Simmons University,Group_D,0,0
+586,72425,37499,3647,3,3441,Adelphi University,Group_D,0,0
+641,48951,50115,2720,3,1913,Princeton University,Group_A,0,0
+641,48951,50115,2720,3,1913,Massachusetts Institute of Technology,Group_A,0,0
+641,48951,50115,2720,3,1913,Harvard University,Group_A,0,0
+641,48951,50115,2720,3,1913,Howard University,Group_B,0,0
+641,48951,50115,2720,3,1913,Tuskegee University,Group_B,0,0
+641,48951,50115,2720,3,1913,Florida A&M University,Group_B,0,0
+641,48951,50115,2720,3,1913,Texas Christian University,Group_C,0,0
+641,48951,50115,2720,3,1913,Auburn University,Group_C,0,0
+641,48951,50115,2720,3,1913,Temple University,Group_C,0,0
+641,48951,50115,2720,3,1913,Hofstra University,Group_D,0,0
+641,48951,50115,2720,3,1913,Simmons University,Group_D,0,0
+641,48951,50115,2720,3,1913,Adelphi University,Group_D,0,0
+746,49621,46914,4947,3,1302,Princeton University,Group_A,1,7
+746,49621,46914,4947,3,1302,Massachusetts Institute of Technology,Group_A,1,7
+746,49621,46914,4947,3,1302,Harvard University,Group_A,1,7
+746,49621,46914,4947,3,1302,Howard University,Group_B,1,7.5
+746,49621,46914,4947,3,1302,Tuskegee University,Group_B,1,7.5
+746,49621,46914,4947,3,1302,Florida A&M University,Group_B,1,7
+746,49621,46914,4947,3,1302,Texas Christian University,Group_C,1,7
+746,49621,46914,4947,3,1302,Auburn University,Group_C,1,7
+746,49621,46914,4947,3,1302,Temple University,Group_C,1,7
+746,49621,46914,4947,3,1302,Hofstra University,Group_D,1,7
+746,49621,46914,4947,3,1302,Simmons University,Group_D,1,7
+746,49621,46914,4947,3,1302,Adelphi University,Group_D,1,7
+747,54140,23469,1060,1,2945,Princeton University,Group_A,1,7
+747,54140,23469,1060,1,2945,Massachusetts Institute of Technology,Group_A,1,7
+747,54140,23469,1060,1,2945,Harvard University,Group_A,1,7
+747,54140,23469,1060,1,2945,Howard University,Group_B,1,7
+747,54140,23469,1060,1,2945,Tuskegee University,Group_B,1,7.5
+747,54140,23469,1060,1,2945,Florida A&M University,Group_B,1,7.5
+747,54140,23469,1060,1,2945,Texas Christian University,Group_C,1,7
+747,54140,23469,1060,1,2945,Auburn University,Group_C,1,7.5
+747,54140,23469,1060,1,2945,Temple University,Group_C,1,7
+747,54140,23469,1060,1,2945,Hofstra University,Group_D,1,7
+747,54140,23469,1060,1,2945,Simmons University,Group_D,1,7
+747,54140,23469,1060,1,2945,Adelphi University,Group_D,1,7
+622,45891,23012,1803,2,3437,Princeton University,Group_A,0,0
+622,45891,23012,1803,2,3437,Massachusetts Institute of Technology,Group_A,0,0
+622,45891,23012,1803,2,3437,Harvard University,Group_A,0,0
+622,45891,23012,1803,2,3437,Howard University,Group_B,0,0
+622,45891,23012,1803,2,3437,Tuskegee University,Group_B,0,0
+622,45891,23012,1803,2,3437,Florida A&M University,Group_B,0,0
+622,45891,23012,1803,2,3437,Texas Christian University,Group_C,0,0
+622,45891,23012,1803,2,3437,Auburn University,Group_C,0,0
+622,45891,23012,1803,2,3437,Temple University,Group_C,0,0
+622,45891,23012,1803,2,3437,Hofstra University,Group_D,0,0
+622,45891,23012,1803,2,3437,Simmons University,Group_D,0,0
+622,45891,23012,1803,2,3437,Adelphi University,Group_D,0,0
+566,48226,28878,3715,2,1406,Princeton University,Group_A,0,0
+566,48226,28878,3715,2,1406,Massachusetts Institute of Technology,Group_A,0,0
+566,48226,28878,3715,2,1406,Harvard University,Group_A,0,0
+566,48226,28878,3715,2,1406,Howard University,Group_B,0,0
+566,48226,28878,3715,2,1406,Tuskegee University,Group_B,0,0
+566,48226,28878,3715,2,1406,Florida A&M University,Group_B,0,0
+566,48226,28878,3715,2,1406,Texas Christian University,Group_C,0,0
+566,48226,28878,3715,2,1406,Auburn University,Group_C,0,0
+566,48226,28878,3715,2,1406,Temple University,Group_C,0,0
+566,48226,28878,3715,2,1406,Hofstra University,Group_D,0,0
+566,48226,28878,3715,2,1406,Simmons University,Group_D,0,0
+566,48226,28878,3715,2,1406,Adelphi University,Group_D,0,0
+747,58517,11955,1424,3,1893,Princeton University,Group_A,1,7
+747,58517,11955,1424,3,1893,Massachusetts Institute of Technology,Group_A,1,7
+747,58517,11955,1424,3,1893,Harvard University,Group_A,1,6.5
+747,58517,11955,1424,3,1893,Howard University,Group_B,1,7
+747,58517,11955,1424,3,1893,Tuskegee University,Group_B,1,7
+747,58517,11955,1424,3,1893,Florida A&M University,Group_B,1,7
+747,58517,11955,1424,3,1893,Texas Christian University,Group_C,1,7
+747,58517,11955,1424,3,1893,Auburn University,Group_C,1,7
+747,58517,11955,1424,3,1893,Temple University,Group_C,1,7
+747,58517,11955,1424,3,1893,Hofstra University,Group_D,1,7
+747,58517,11955,1424,3,1893,Simmons University,Group_D,1,7
+747,58517,11955,1424,3,1893,Adelphi University,Group_D,1,7
+656,58439,11398,4768,2,1255,Princeton University,Group_A,1,8.5
+656,58439,11398,4768,2,1255,Massachusetts Institute of Technology,Group_A,1,8.5
+656,58439,11398,4768,2,1255,Harvard University,Group_A,1,8.5
+656,58439,11398,4768,2,1255,Howard University,Group_B,1,8.5
+656,58439,11398,4768,2,1255,Tuskegee University,Group_B,1,8.5
+656,58439,11398,4768,2,1255,Florida A&M University,Group_B,1,8.5
+656,58439,11398,4768,2,1255,Texas Christian University,Group_C,1,8.5
+656,58439,11398,4768,2,1255,Auburn University,Group_C,1,8.5
+656,58439,11398,4768,2,1255,Temple University,Group_C,1,8.5
+656,58439,11398,4768,2,1255,Hofstra University,Group_D,0,0
+656,58439,11398,4768,2,1255,Simmons University,Group_D,1,8.5
+656,58439,11398,4768,2,1255,Adelphi University,Group_D,1,8.5
+577,57007,52262,4658,2,1158,Princeton University,Group_A,0,0
+577,57007,52262,4658,2,1158,Massachusetts Institute of Technology,Group_A,0,0
+577,57007,52262,4658,2,1158,Harvard University,Group_A,0,0
+577,57007,52262,4658,2,1158,Howard University,Group_B,0,0
+577,57007,52262,4658,2,1158,Tuskegee University,Group_B,0,0
+577,57007,52262,4658,2,1158,Florida A&M University,Group_B,0,0
+577,57007,52262,4658,2,1158,Texas Christian University,Group_C,0,0
+577,57007,52262,4658,2,1158,Auburn University,Group_C,0,0
+577,57007,52262,4658,2,1158,Temple University,Group_C,0,0
+577,57007,52262,4658,2,1158,Hofstra University,Group_D,0,0
+577,57007,52262,4658,2,1158,Simmons University,Group_D,0,0
+577,57007,52262,4658,2,1158,Adelphi University,Group_D,0,0
+711,46426,43873,2258,3,1054,Princeton University,Group_A,1,7.5
+711,46426,43873,2258,3,1054,Massachusetts Institute of Technology,Group_A,1,7.5
+711,46426,43873,2258,3,1054,Harvard University,Group_A,1,7.5
+711,46426,43873,2258,3,1054,Howard University,Group_B,1,8.5
+711,46426,43873,2258,3,1054,Tuskegee University,Group_B,1,8
+711,46426,43873,2258,3,1054,Florida A&M University,Group_B,1,8.5
+711,46426,43873,2258,3,1054,Texas Christian University,Group_C,1,8
+711,46426,43873,2258,3,1054,Auburn University,Group_C,1,7.5
+711,46426,43873,2258,3,1054,Temple University,Group_C,1,8.5
+711,46426,43873,2258,3,1054,Hofstra University,Group_D,1,8
+711,46426,43873,2258,3,1054,Simmons University,Group_D,1,7.5
+711,46426,43873,2258,3,1054,Adelphi University,Group_D,1,7.5
+616,52375,14420,2553,3,3457,Princeton University,Group_A,0,0
+616,52375,14420,2553,3,3457,Massachusetts Institute of Technology,Group_A,0,0
+616,52375,14420,2553,3,3457,Harvard University,Group_A,0,0
+616,52375,14420,2553,3,3457,Howard University,Group_B,0,0
+616,52375,14420,2553,3,3457,Tuskegee University,Group_B,0,0
+616,52375,14420,2553,3,3457,Florida A&M University,Group_B,0,0
+616,52375,14420,2553,3,3457,Texas Christian University,Group_C,0,0
+616,52375,14420,2553,3,3457,Auburn University,Group_C,0,0
+616,52375,14420,2553,3,3457,Temple University,Group_C,0,0
+616,52375,14420,2553,3,3457,Hofstra University,Group_D,0,0
+616,52375,14420,2553,3,3457,Simmons University,Group_D,0,0
+616,52375,14420,2553,3,3457,Adelphi University,Group_D,0,0
+748,50374,25965,2457,2,2588,Princeton University,Group_A,1,7
+748,50374,25965,2457,2,2588,Massachusetts Institute of Technology,Group_A,1,7
+748,50374,25965,2457,2,2588,Harvard University,Group_A,1,7
+748,50374,25965,2457,2,2588,Howard University,Group_B,1,7
+748,50374,25965,2457,2,2588,Tuskegee University,Group_B,1,7
+748,50374,25965,2457,2,2588,Florida A&M University,Group_B,1,7
+748,50374,25965,2457,2,2588,Texas Christian University,Group_C,1,7
+748,50374,25965,2457,2,2588,Auburn University,Group_C,1,7
+748,50374,25965,2457,2,2588,Temple University,Group_C,1,7
+748,50374,25965,2457,2,2588,Hofstra University,Group_D,1,7
+748,50374,25965,2457,2,2588,Simmons University,Group_D,1,7
+748,50374,25965,2457,2,2588,Adelphi University,Group_D,1,7
+627,73787,16265,4097,1,3289,Princeton University,Group_A,1,8.5
+627,73787,16265,4097,1,3289,Massachusetts Institute of Technology,Group_A,1,8
+627,73787,16265,4097,1,3289,Harvard University,Group_A,1,8.5
+627,73787,16265,4097,1,3289,Howard University,Group_B,1,8.5
+627,73787,16265,4097,1,3289,Tuskegee University,Group_B,0,0
+627,73787,16265,4097,1,3289,Florida A&M University,Group_B,1,8.5
+627,73787,16265,4097,1,3289,Texas Christian University,Group_C,1,8.5
+627,73787,16265,4097,1,3289,Auburn University,Group_C,0,0
+627,73787,16265,4097,1,3289,Temple University,Group_C,0,0
+627,73787,16265,4097,1,3289,Hofstra University,Group_D,0,0
+627,73787,16265,4097,1,3289,Simmons University,Group_D,1,8.5
+627,73787,16265,4097,1,3289,Adelphi University,Group_D,0,0
+631,70854,35272,4906,1,1913,Princeton University,Group_A,1,8.5
+631,70854,35272,4906,1,1913,Massachusetts Institute of Technology,Group_A,1,8.5
+631,70854,35272,4906,1,1913,Harvard University,Group_A,1,8.5
+631,70854,35272,4906,1,1913,Howard University,Group_B,1,8.5
+631,70854,35272,4906,1,1913,Tuskegee University,Group_B,1,8.5
+631,70854,35272,4906,1,1913,Florida A&M University,Group_B,1,8.5
+631,70854,35272,4906,1,1913,Texas Christian University,Group_C,1,8.5
+631,70854,35272,4906,1,1913,Auburn University,Group_C,1,8
+631,70854,35272,4906,1,1913,Temple University,Group_C,1,8.5
+631,70854,35272,4906,1,1913,Hofstra University,Group_D,1,8.5
+631,70854,35272,4906,1,1913,Simmons University,Group_D,1,8
+631,70854,35272,4906,1,1913,Adelphi University,Group_D,1,8.5
+747,59828,50181,2747,1,3429,Princeton University,Group_A,1,7
+747,59828,50181,2747,1,3429,Massachusetts Institute of Technology,Group_A,1,7
+747,59828,50181,2747,1,3429,Harvard University,Group_A,1,7
+747,59828,50181,2747,1,3429,Howard University,Group_B,1,7.5
+747,59828,50181,2747,1,3429,Tuskegee University,Group_B,1,7
+747,59828,50181,2747,1,3429,Florida A&M University,Group_B,1,7.5
+747,59828,50181,2747,1,3429,Texas Christian University,Group_C,1,7.5
+747,59828,50181,2747,1,3429,Auburn University,Group_C,1,7
+747,59828,50181,2747,1,3429,Temple University,Group_C,1,7
+747,59828,50181,2747,1,3429,Hofstra University,Group_D,1,7.5
+747,59828,50181,2747,1,3429,Simmons University,Group_D,1,7
+747,59828,50181,2747,1,3429,Adelphi University,Group_D,1,7
+687,51662,14004,2055,2,2094,Princeton University,Group_A,1,7.5
+687,51662,14004,2055,2,2094,Massachusetts Institute of Technology,Group_A,1,7.5
+687,51662,14004,2055,2,2094,Harvard University,Group_A,1,7.5
+687,51662,14004,2055,2,2094,Howard University,Group_B,1,8
+687,51662,14004,2055,2,2094,Tuskegee University,Group_B,1,8.5
+687,51662,14004,2055,2,2094,Florida A&M University,Group_B,1,8
+687,51662,14004,2055,2,2094,Texas Christian University,Group_C,1,7.5
+687,51662,14004,2055,2,2094,Auburn University,Group_C,1,7.5
+687,51662,14004,2055,2,2094,Temple University,Group_C,1,7.5
+687,51662,14004,2055,2,2094,Hofstra University,Group_D,1,8.5
+687,51662,14004,2055,2,2094,Simmons University,Group_D,1,7.5
+687,51662,14004,2055,2,2094,Adelphi University,Group_D,1,7.5
+685,45499,45575,2825,3,1838,Princeton University,Group_A,0,0
+685,45499,45575,2825,3,1838,Massachusetts Institute of Technology,Group_A,1,8.5
+685,45499,45575,2825,3,1838,Harvard University,Group_A,1,9.5
+685,45499,45575,2825,3,1838,Howard University,Group_B,0,0
+685,45499,45575,2825,3,1838,Tuskegee University,Group_B,0,0
+685,45499,45575,2825,3,1838,Florida A&M University,Group_B,0,0
+685,45499,45575,2825,3,1838,Texas Christian University,Group_C,0,0
+685,45499,45575,2825,3,1838,Auburn University,Group_C,0,0
+685,45499,45575,2825,3,1838,Temple University,Group_C,0,0
+685,45499,45575,2825,3,1838,Hofstra University,Group_D,0,0
+685,45499,45575,2825,3,1838,Simmons University,Group_D,0,0
+685,45499,45575,2825,3,1838,Adelphi University,Group_D,0,0
+748,49355,55353,3729,1,1338,Princeton University,Group_A,1,7
+748,49355,55353,3729,1,1338,Massachusetts Institute of Technology,Group_A,1,7.5
+748,49355,55353,3729,1,1338,Harvard University,Group_A,1,7
+748,49355,55353,3729,1,1338,Howard University,Group_B,1,8.5
+748,49355,55353,3729,1,1338,Tuskegee University,Group_B,1,7.5
+748,49355,55353,3729,1,1338,Florida A&M University,Group_B,1,7.5
+748,49355,55353,3729,1,1338,Texas Christian University,Group_C,1,7.5
+748,49355,55353,3729,1,1338,Auburn University,Group_C,1,7.5
+748,49355,55353,3729,1,1338,Temple University,Group_C,1,7.5
+748,49355,55353,3729,1,1338,Hofstra University,Group_D,1,7.5
+748,49355,55353,3729,1,1338,Simmons University,Group_D,1,7.5
+748,49355,55353,3729,1,1338,Adelphi University,Group_D,1,7.5
+570,57353,25401,2228,2,2391,Princeton University,Group_A,0,0
+570,57353,25401,2228,2,2391,Massachusetts Institute of Technology,Group_A,0,0
+570,57353,25401,2228,2,2391,Harvard University,Group_A,0,0
+570,57353,25401,2228,2,2391,Howard University,Group_B,0,0
+570,57353,25401,2228,2,2391,Tuskegee University,Group_B,0,0
+570,57353,25401,2228,2,2391,Florida A&M University,Group_B,0,0
+570,57353,25401,2228,2,2391,Texas Christian University,Group_C,0,0
+570,57353,25401,2228,2,2391,Auburn University,Group_C,0,0
+570,57353,25401,2228,2,2391,Temple University,Group_C,0,0
+570,57353,25401,2228,2,2391,Hofstra University,Group_D,0,0
+570,57353,25401,2228,2,2391,Simmons University,Group_D,0,0
+570,57353,25401,2228,2,2391,Adelphi University,Group_D,0,0
+670,56117,21580,2544,3,2343,Princeton University,Group_A,1,8
+670,56117,21580,2544,3,2343,Massachusetts Institute of Technology,Group_A,1,8.5
+670,56117,21580,2544,3,2343,Harvard University,Group_A,1,8.5
+670,56117,21580,2544,3,2343,Howard University,Group_B,1,8.5
+670,56117,21580,2544,3,2343,Tuskegee University,Group_B,1,8.5
+670,56117,21580,2544,3,2343,Florida A&M University,Group_B,1,8.5
+670,56117,21580,2544,3,2343,Texas Christian University,Group_C,1,8.5
+670,56117,21580,2544,3,2343,Auburn University,Group_C,1,8
+670,56117,21580,2544,3,2343,Temple University,Group_C,1,8.5
+670,56117,21580,2544,3,2343,Hofstra University,Group_D,0,0
+670,56117,21580,2544,3,2343,Simmons University,Group_D,1,8
+670,56117,21580,2544,3,2343,Adelphi University,Group_D,1,8.5
+572,69959,43671,2635,2,3293,Princeton University,Group_A,0,0
+572,69959,43671,2635,2,3293,Massachusetts Institute of Technology,Group_A,0,0
+572,69959,43671,2635,2,3293,Harvard University,Group_A,0,0
+572,69959,43671,2635,2,3293,Howard University,Group_B,0,0
+572,69959,43671,2635,2,3293,Tuskegee University,Group_B,0,0
+572,69959,43671,2635,2,3293,Florida A&M University,Group_B,0,0
+572,69959,43671,2635,2,3293,Texas Christian University,Group_C,0,0
+572,69959,43671,2635,2,3293,Auburn University,Group_C,0,0
+572,69959,43671,2635,2,3293,Temple University,Group_C,0,0
+572,69959,43671,2635,2,3293,Hofstra University,Group_D,0,0
+572,69959,43671,2635,2,3293,Simmons University,Group_D,0,0
+572,69959,43671,2635,2,3293,Adelphi University,Group_D,0,0
+688,70750,55668,4695,1,2175,Princeton University,Group_A,1,7.5
+688,70750,55668,4695,1,2175,Massachusetts Institute of Technology,Group_A,1,7.5
+688,70750,55668,4695,1,2175,Harvard University,Group_A,1,7.5
+688,70750,55668,4695,1,2175,Howard University,Group_B,1,7.5
+688,70750,55668,4695,1,2175,Tuskegee University,Group_B,1,7.5
+688,70750,55668,4695,1,2175,Florida A&M University,Group_B,1,8
+688,70750,55668,4695,1,2175,Texas Christian University,Group_C,1,8
+688,70750,55668,4695,1,2175,Auburn University,Group_C,1,7.5
+688,70750,55668,4695,1,2175,Temple University,Group_C,1,8
+688,70750,55668,4695,1,2175,Hofstra University,Group_D,1,8.5
+688,70750,55668,4695,1,2175,Simmons University,Group_D,1,8
+688,70750,55668,4695,1,2175,Adelphi University,Group_D,1,8
+747,61795,13404,2429,1,3193,Princeton University,Group_A,1,6.5
+747,61795,13404,2429,1,3193,Massachusetts Institute of Technology,Group_A,1,6.5
+747,61795,13404,2429,1,3193,Harvard University,Group_A,1,6.5
+747,61795,13404,2429,1,3193,Howard University,Group_B,1,7
+747,61795,13404,2429,1,3193,Tuskegee University,Group_B,1,7
+747,61795,13404,2429,1,3193,Florida A&M University,Group_B,1,7
+747,61795,13404,2429,1,3193,Texas Christian University,Group_C,1,7
+747,61795,13404,2429,1,3193,Auburn University,Group_C,1,7
+747,61795,13404,2429,1,3193,Temple University,Group_C,1,7
+747,61795,13404,2429,1,3193,Hofstra University,Group_D,1,7
+747,61795,13404,2429,1,3193,Simmons University,Group_D,1,7
+747,61795,13404,2429,1,3193,Adelphi University,Group_D,1,7
+725,70212,14286,1013,3,3041,Princeton University,Group_A,1,7
+725,70212,14286,1013,3,3041,Massachusetts Institute of Technology,Group_A,1,7
+725,70212,14286,1013,3,3041,Harvard University,Group_A,1,7
+725,70212,14286,1013,3,3041,Howard University,Group_B,1,7
+725,70212,14286,1013,3,3041,Tuskegee University,Group_B,1,7
+725,70212,14286,1013,3,3041,Florida A&M University,Group_B,1,7
+725,70212,14286,1013,3,3041,Texas Christian University,Group_C,1,7
+725,70212,14286,1013,3,3041,Auburn University,Group_C,1,7
+725,70212,14286,1013,3,3041,Temple University,Group_C,1,7
+725,70212,14286,1013,3,3041,Hofstra University,Group_D,1,7
+725,70212,14286,1013,3,3041,Simmons University,Group_D,1,7
+725,70212,14286,1013,3,3041,Adelphi University,Group_D,1,7
+732,54119,32421,3661,1,1014,Princeton University,Group_A,1,7
+732,54119,32421,3661,1,1014,Massachusetts Institute of Technology,Group_A,1,7
+732,54119,32421,3661,1,1014,Harvard University,Group_A,1,7
+732,54119,32421,3661,1,1014,Howard University,Group_B,1,7.5
+732,54119,32421,3661,1,1014,Tuskegee University,Group_B,1,7
+732,54119,32421,3661,1,1014,Florida A&M University,Group_B,1,7.5
+732,54119,32421,3661,1,1014,Texas Christian University,Group_C,1,7
+732,54119,32421,3661,1,1014,Auburn University,Group_C,1,7
+732,54119,32421,3661,1,1014,Temple University,Group_C,1,7
+732,54119,32421,3661,1,1014,Hofstra University,Group_D,1,7
+732,54119,32421,3661,1,1014,Simmons University,Group_D,1,7
+732,54119,32421,3661,1,1014,Adelphi University,Group_D,1,7
+624,49950,53814,4876,1,1809,Princeton University,Group_A,0,0
+624,49950,53814,4876,1,1809,Massachusetts Institute of Technology,Group_A,0,0
+624,49950,53814,4876,1,1809,Harvard University,Group_A,0,0
+624,49950,53814,4876,1,1809,Howard University,Group_B,0,0
+624,49950,53814,4876,1,1809,Tuskegee University,Group_B,0,0
+624,49950,53814,4876,1,1809,Florida A&M University,Group_B,0,0
+624,49950,53814,4876,1,1809,Texas Christian University,Group_C,0,0
+624,49950,53814,4876,1,1809,Auburn University,Group_C,0,0
+624,49950,53814,4876,1,1809,Temple University,Group_C,0,0
+624,49950,53814,4876,1,1809,Hofstra University,Group_D,0,0
+624,49950,53814,4876,1,1809,Simmons University,Group_D,0,0
+624,49950,53814,4876,1,1809,Adelphi University,Group_D,0,0
+592,70668,52013,4733,1,2149,Princeton University,Group_A,0,0
+592,70668,52013,4733,1,2149,Massachusetts Institute of Technology,Group_A,1,8.5
+592,70668,52013,4733,1,2149,Harvard University,Group_A,0,0
+592,70668,52013,4733,1,2149,Howard University,Group_B,0,0
+592,70668,52013,4733,1,2149,Tuskegee University,Group_B,0,0
+592,70668,52013,4733,1,2149,Florida A&M University,Group_B,0,0
+592,70668,52013,4733,1,2149,Texas Christian University,Group_C,0,0
+592,70668,52013,4733,1,2149,Auburn University,Group_C,0,0
+592,70668,52013,4733,1,2149,Temple University,Group_C,0,0
+592,70668,52013,4733,1,2149,Hofstra University,Group_D,0,0
+592,70668,52013,4733,1,2149,Simmons University,Group_D,0,0
+592,70668,52013,4733,1,2149,Adelphi University,Group_D,0,0
+721,55732,51012,2331,3,1434,Princeton University,Group_A,1,7
+721,55732,51012,2331,3,1434,Massachusetts Institute of Technology,Group_A,1,7.5
+721,55732,51012,2331,3,1434,Harvard University,Group_A,1,7.5
+721,55732,51012,2331,3,1434,Howard University,Group_B,1,7.5
+721,55732,51012,2331,3,1434,Tuskegee University,Group_B,1,7.5
+721,55732,51012,2331,3,1434,Florida A&M University,Group_B,1,7.5
+721,55732,51012,2331,3,1434,Texas Christian University,Group_C,1,7.5
+721,55732,51012,2331,3,1434,Auburn University,Group_C,1,7.5
+721,55732,51012,2331,3,1434,Temple University,Group_C,1,7
+721,55732,51012,2331,3,1434,Hofstra University,Group_D,1,7.5
+721,55732,51012,2331,3,1434,Simmons University,Group_D,1,7.5
+721,55732,51012,2331,3,1434,Adelphi University,Group_D,1,7.5
+611,57343,35551,1530,1,1943,Princeton University,Group_A,0,0
+611,57343,35551,1530,1,1943,Massachusetts Institute of Technology,Group_A,1,8.5
+611,57343,35551,1530,1,1943,Harvard University,Group_A,0,0
+611,57343,35551,1530,1,1943,Howard University,Group_B,0,0
+611,57343,35551,1530,1,1943,Tuskegee University,Group_B,0,0
+611,57343,35551,1530,1,1943,Florida A&M University,Group_B,0,0
+611,57343,35551,1530,1,1943,Texas Christian University,Group_C,0,0
+611,57343,35551,1530,1,1943,Auburn University,Group_C,0,0
+611,57343,35551,1530,1,1943,Temple University,Group_C,0,0
+611,57343,35551,1530,1,1943,Hofstra University,Group_D,0,0
+611,57343,35551,1530,1,1943,Simmons University,Group_D,0,0
+611,57343,35551,1530,1,1943,Adelphi University,Group_D,0,0
+617,61629,45929,2291,3,3262,Princeton University,Group_A,0,0
+617,61629,45929,2291,3,3262,Massachusetts Institute of Technology,Group_A,0,0
+617,61629,45929,2291,3,3262,Harvard University,Group_A,0,0
+617,61629,45929,2291,3,3262,Howard University,Group_B,0,0
+617,61629,45929,2291,3,3262,Tuskegee University,Group_B,0,0
+617,61629,45929,2291,3,3262,Florida A&M University,Group_B,0,0
+617,61629,45929,2291,3,3262,Texas Christian University,Group_C,0,0
+617,61629,45929,2291,3,3262,Auburn University,Group_C,0,0
+617,61629,45929,2291,3,3262,Temple University,Group_C,0,0
+617,61629,45929,2291,3,3262,Hofstra University,Group_D,0,0
+617,61629,45929,2291,3,3262,Simmons University,Group_D,0,0
+617,61629,45929,2291,3,3262,Adelphi University,Group_D,0,0
+692,74713,25449,4237,1,1395,Princeton University,Group_A,1,7
+692,74713,25449,4237,1,1395,Massachusetts Institute of Technology,Group_A,1,7
+692,74713,25449,4237,1,1395,Harvard University,Group_A,1,7
+692,74713,25449,4237,1,1395,Howard University,Group_B,1,7.5
+692,74713,25449,4237,1,1395,Tuskegee University,Group_B,1,7
+692,74713,25449,4237,1,1395,Florida A&M University,Group_B,1,7.5
+692,74713,25449,4237,1,1395,Texas Christian University,Group_C,1,7.5
+692,74713,25449,4237,1,1395,Auburn University,Group_C,1,7
+692,74713,25449,4237,1,1395,Temple University,Group_C,1,7.5
+692,74713,25449,4237,1,1395,Hofstra University,Group_D,1,7.5
+692,74713,25449,4237,1,1395,Simmons University,Group_D,1,7
+692,74713,25449,4237,1,1395,Adelphi University,Group_D,1,7
+585,58933,55149,2739,1,3103,Princeton University,Group_A,0,0
+585,58933,55149,2739,1,3103,Massachusetts Institute of Technology,Group_A,0,0
+585,58933,55149,2739,1,3103,Harvard University,Group_A,0,0
+585,58933,55149,2739,1,3103,Howard University,Group_B,0,0
+585,58933,55149,2739,1,3103,Tuskegee University,Group_B,0,0
+585,58933,55149,2739,1,3103,Florida A&M University,Group_B,0,0
+585,58933,55149,2739,1,3103,Texas Christian University,Group_C,0,0
+585,58933,55149,2739,1,3103,Auburn University,Group_C,0,0
+585,58933,55149,2739,1,3103,Temple University,Group_C,0,0
+585,58933,55149,2739,1,3103,Hofstra University,Group_D,0,0
+585,58933,55149,2739,1,3103,Simmons University,Group_D,0,0
+585,58933,55149,2739,1,3103,Adelphi University,Group_D,0,0
+558,48542,37932,3163,2,2807,Princeton University,Group_A,0,0
+558,48542,37932,3163,2,2807,Massachusetts Institute of Technology,Group_A,0,0
+558,48542,37932,3163,2,2807,Harvard University,Group_A,0,0
+558,48542,37932,3163,2,2807,Howard University,Group_B,0,0
+558,48542,37932,3163,2,2807,Tuskegee University,Group_B,0,0
+558,48542,37932,3163,2,2807,Florida A&M University,Group_B,0,0
+558,48542,37932,3163,2,2807,Texas Christian University,Group_C,0,0
+558,48542,37932,3163,2,2807,Auburn University,Group_C,0,0
+558,48542,37932,3163,2,2807,Temple University,Group_C,0,0
+558,48542,37932,3163,2,2807,Hofstra University,Group_D,0,0
+558,48542,37932,3163,2,2807,Simmons University,Group_D,0,0
+558,48542,37932,3163,2,2807,Adelphi University,Group_D,0,0
+685,71947,24928,2563,3,1715,Princeton University,Group_A,1,7.5
+685,71947,24928,2563,3,1715,Massachusetts Institute of Technology,Group_A,1,7.5
+685,71947,24928,2563,3,1715,Harvard University,Group_A,1,7.5
+685,71947,24928,2563,3,1715,Howard University,Group_B,1,7.5
+685,71947,24928,2563,3,1715,Tuskegee University,Group_B,1,8
+685,71947,24928,2563,3,1715,Florida A&M University,Group_B,1,7.5
+685,71947,24928,2563,3,1715,Texas Christian University,Group_C,1,7.5
+685,71947,24928,2563,3,1715,Auburn University,Group_C,1,7.5
+685,71947,24928,2563,3,1715,Temple University,Group_C,1,7.5
+685,71947,24928,2563,3,1715,Hofstra University,Group_D,1,7.5
+685,71947,24928,2563,3,1715,Simmons University,Group_D,1,7.5
+685,71947,24928,2563,3,1715,Adelphi University,Group_D,1,7.5
+606,54290,59828,4621,1,3211,Princeton University,Group_A,0,0
+606,54290,59828,4621,1,3211,Massachusetts Institute of Technology,Group_A,0,0
+606,54290,59828,4621,1,3211,Harvard University,Group_A,0,0
+606,54290,59828,4621,1,3211,Howard University,Group_B,0,0
+606,54290,59828,4621,1,3211,Tuskegee University,Group_B,0,0
+606,54290,59828,4621,1,3211,Florida A&M University,Group_B,0,0
+606,54290,59828,4621,1,3211,Texas Christian University,Group_C,0,0
+606,54290,59828,4621,1,3211,Auburn University,Group_C,0,0
+606,54290,59828,4621,1,3211,Temple University,Group_C,0,0
+606,54290,59828,4621,1,3211,Hofstra University,Group_D,0,0
+606,54290,59828,4621,1,3211,Simmons University,Group_D,0,0
+606,54290,59828,4621,1,3211,Adelphi University,Group_D,0,0
+554,55014,55189,4718,3,2372,Princeton University,Group_A,0,0
+554,55014,55189,4718,3,2372,Massachusetts Institute of Technology,Group_A,0,0
+554,55014,55189,4718,3,2372,Harvard University,Group_A,0,0
+554,55014,55189,4718,3,2372,Howard University,Group_B,0,0
+554,55014,55189,4718,3,2372,Tuskegee University,Group_B,0,0
+554,55014,55189,4718,3,2372,Florida A&M University,Group_B,0,0
+554,55014,55189,4718,3,2372,Texas Christian University,Group_C,0,0
+554,55014,55189,4718,3,2372,Auburn University,Group_C,0,0
+554,55014,55189,4718,3,2372,Temple University,Group_C,0,0
+554,55014,55189,4718,3,2372,Hofstra University,Group_D,0,0
+554,55014,55189,4718,3,2372,Simmons University,Group_D,0,0
+554,55014,55189,4718,3,2372,Adelphi University,Group_D,0,0
+724,60491,19463,2067,1,1471,Princeton University,Group_A,1,7
+724,60491,19463,2067,1,1471,Massachusetts Institute of Technology,Group_A,1,7
+724,60491,19463,2067,1,1471,Harvard University,Group_A,1,7
+724,60491,19463,2067,1,1471,Howard University,Group_B,1,7.5
+724,60491,19463,2067,1,1471,Tuskegee University,Group_B,1,7
+724,60491,19463,2067,1,1471,Florida A&M University,Group_B,1,7
+724,60491,19463,2067,1,1471,Texas Christian University,Group_C,1,7
+724,60491,19463,2067,1,1471,Auburn University,Group_C,1,7
+724,60491,19463,2067,1,1471,Temple University,Group_C,1,7
+724,60491,19463,2067,1,1471,Hofstra University,Group_D,1,7
+724,60491,19463,2067,1,1471,Simmons University,Group_D,1,7
+724,60491,19463,2067,1,1471,Adelphi University,Group_D,1,7
+575,53284,39536,3478,1,3131,Princeton University,Group_A,0,0
+575,53284,39536,3478,1,3131,Massachusetts Institute of Technology,Group_A,0,0
+575,53284,39536,3478,1,3131,Harvard University,Group_A,0,0
+575,53284,39536,3478,1,3131,Howard University,Group_B,0,0
+575,53284,39536,3478,1,3131,Tuskegee University,Group_B,0,0
+575,53284,39536,3478,1,3131,Florida A&M University,Group_B,0,0
+575,53284,39536,3478,1,3131,Texas Christian University,Group_C,0,0
+575,53284,39536,3478,1,3131,Auburn University,Group_C,0,0
+575,53284,39536,3478,1,3131,Temple University,Group_C,0,0
+575,53284,39536,3478,1,3131,Hofstra University,Group_D,0,0
+575,53284,39536,3478,1,3131,Simmons University,Group_D,0,0
+575,53284,39536,3478,1,3131,Adelphi University,Group_D,0,0
+705,47844,19344,2289,2,1481,Princeton University,Group_A,1,7.5
+705,47844,19344,2289,2,1481,Massachusetts Institute of Technology,Group_A,1,7.5
+705,47844,19344,2289,2,1481,Harvard University,Group_A,1,7.5
+705,47844,19344,2289,2,1481,Howard University,Group_B,1,7.5
+705,47844,19344,2289,2,1481,Tuskegee University,Group_B,1,8
+705,47844,19344,2289,2,1481,Florida A&M University,Group_B,1,7.5
+705,47844,19344,2289,2,1481,Texas Christian University,Group_C,1,7.5
+705,47844,19344,2289,2,1481,Auburn University,Group_C,1,7.5
+705,47844,19344,2289,2,1481,Temple University,Group_C,1,7.5
+705,47844,19344,2289,2,1481,Hofstra University,Group_D,1,7.5
+705,47844,19344,2289,2,1481,Simmons University,Group_D,1,7.5
+705,47844,19344,2289,2,1481,Adelphi University,Group_D,1,7.5
+706,57573,42292,1009,1,1560,Princeton University,Group_A,1,7.5
+706,57573,42292,1009,1,1560,Massachusetts Institute of Technology,Group_A,1,7
+706,57573,42292,1009,1,1560,Harvard University,Group_A,1,7.5
+706,57573,42292,1009,1,1560,Howard University,Group_B,1,7.5
+706,57573,42292,1009,1,1560,Tuskegee University,Group_B,1,7.5
+706,57573,42292,1009,1,1560,Florida A&M University,Group_B,1,7.5
+706,57573,42292,1009,1,1560,Texas Christian University,Group_C,1,7.5
+706,57573,42292,1009,1,1560,Auburn University,Group_C,1,7.5
+706,57573,42292,1009,1,1560,Temple University,Group_C,1,7.5
+706,57573,42292,1009,1,1560,Hofstra University,Group_D,1,7.5
+706,57573,42292,1009,1,1560,Simmons University,Group_D,1,7.5
+706,57573,42292,1009,1,1560,Adelphi University,Group_D,1,7.5
+560,70728,36929,4043,2,2392,Princeton University,Group_A,0,0
+560,70728,36929,4043,2,2392,Massachusetts Institute of Technology,Group_A,0,0
+560,70728,36929,4043,2,2392,Harvard University,Group_A,0,0
+560,70728,36929,4043,2,2392,Howard University,Group_B,0,0
+560,70728,36929,4043,2,2392,Tuskegee University,Group_B,0,0
+560,70728,36929,4043,2,2392,Florida A&M University,Group_B,0,0
+560,70728,36929,4043,2,2392,Texas Christian University,Group_C,0,0
+560,70728,36929,4043,2,2392,Auburn University,Group_C,0,0
+560,70728,36929,4043,2,2392,Temple University,Group_C,0,0
+560,70728,36929,4043,2,2392,Hofstra University,Group_D,0,0
+560,70728,36929,4043,2,2392,Simmons University,Group_D,0,0
+560,70728,36929,4043,2,2392,Adelphi University,Group_D,0,0
+645,74494,44799,3281,3,2650,Princeton University,Group_A,0,0
+645,74494,44799,3281,3,2650,Massachusetts Institute of Technology,Group_A,1,8.5
+645,74494,44799,3281,3,2650,Harvard University,Group_A,1,8.5
+645,74494,44799,3281,3,2650,Howard University,Group_B,0,0
+645,74494,44799,3281,3,2650,Tuskegee University,Group_B,0,0
+645,74494,44799,3281,3,2650,Florida A&M University,Group_B,1,8.5
+645,74494,44799,3281,3,2650,Texas Christian University,Group_C,1,9.5
+645,74494,44799,3281,3,2650,Auburn University,Group_C,0,0
+645,74494,44799,3281,3,2650,Temple University,Group_C,0,0
+645,74494,44799,3281,3,2650,Hofstra University,Group_D,0,0
+645,74494,44799,3281,3,2650,Simmons University,Group_D,0,0
+645,74494,44799,3281,3,2650,Adelphi University,Group_D,1,8.5
+690,45643,18563,3820,1,2122,Princeton University,Group_A,1,8.5
+690,45643,18563,3820,1,2122,Massachusetts Institute of Technology,Group_A,1,8
+690,45643,18563,3820,1,2122,Harvard University,Group_A,1,8
+690,45643,18563,3820,1,2122,Howard University,Group_B,1,8.5
+690,45643,18563,3820,1,2122,Tuskegee University,Group_B,1,8.5
+690,45643,18563,3820,1,2122,Florida A&M University,Group_B,1,8
+690,45643,18563,3820,1,2122,Texas Christian University,Group_C,1,8.5
+690,45643,18563,3820,1,2122,Auburn University,Group_C,1,8
+690,45643,18563,3820,1,2122,Temple University,Group_C,1,8.5
+690,45643,18563,3820,1,2122,Hofstra University,Group_D,1,8.5
+690,45643,18563,3820,1,2122,Simmons University,Group_D,1,8.5
+690,45643,18563,3820,1,2122,Adelphi University,Group_D,1,8.5
+721,71295,10348,1613,2,3211,Princeton University,Group_A,1,7
+721,71295,10348,1613,2,3211,Massachusetts Institute of Technology,Group_A,1,7
+721,71295,10348,1613,2,3211,Harvard University,Group_A,1,7
+721,71295,10348,1613,2,3211,Howard University,Group_B,1,7
+721,71295,10348,1613,2,3211,Tuskegee University,Group_B,1,7
+721,71295,10348,1613,2,3211,Florida A&M University,Group_B,1,7
+721,71295,10348,1613,2,3211,Texas Christian University,Group_C,1,7
+721,71295,10348,1613,2,3211,Auburn University,Group_C,1,7
+721,71295,10348,1613,2,3211,Temple University,Group_C,1,7
+721,71295,10348,1613,2,3211,Hofstra University,Group_D,1,7
+721,71295,10348,1613,2,3211,Simmons University,Group_D,1,7
+721,71295,10348,1613,2,3211,Adelphi University,Group_D,1,7
+561,60132,24822,3241,3,2485,Princeton University,Group_A,0,0
+561,60132,24822,3241,3,2485,Massachusetts Institute of Technology,Group_A,0,0
+561,60132,24822,3241,3,2485,Harvard University,Group_A,0,0
+561,60132,24822,3241,3,2485,Howard University,Group_B,0,0
+561,60132,24822,3241,3,2485,Tuskegee University,Group_B,0,0
+561,60132,24822,3241,3,2485,Florida A&M University,Group_B,0,0
+561,60132,24822,3241,3,2485,Texas Christian University,Group_C,0,0
+561,60132,24822,3241,3,2485,Auburn University,Group_C,0,0
+561,60132,24822,3241,3,2485,Temple University,Group_C,0,0
+561,60132,24822,3241,3,2485,Hofstra University,Group_D,0,0
+561,60132,24822,3241,3,2485,Simmons University,Group_D,0,0
+561,60132,24822,3241,3,2485,Adelphi University,Group_D,0,0
+694,55616,17178,2751,2,2745,Princeton University,Group_A,1,8
+694,55616,17178,2751,2,2745,Massachusetts Institute of Technology,Group_A,1,7.5
+694,55616,17178,2751,2,2745,Harvard University,Group_A,1,8.5
+694,55616,17178,2751,2,2745,Howard University,Group_B,1,8.5
+694,55616,17178,2751,2,2745,Tuskegee University,Group_B,1,8.5
+694,55616,17178,2751,2,2745,Florida A&M University,Group_B,1,8
+694,55616,17178,2751,2,2745,Texas Christian University,Group_C,1,7.5
+694,55616,17178,2751,2,2745,Auburn University,Group_C,1,8
+694,55616,17178,2751,2,2745,Temple University,Group_C,1,8.5
+694,55616,17178,2751,2,2745,Hofstra University,Group_D,1,8.5
+694,55616,17178,2751,2,2745,Simmons University,Group_D,1,8
+694,55616,17178,2751,2,2745,Adelphi University,Group_D,1,8.5
+690,55344,13168,4331,1,2289,Princeton University,Group_A,1,7.5
+690,55344,13168,4331,1,2289,Massachusetts Institute of Technology,Group_A,1,7.5
+690,55344,13168,4331,1,2289,Harvard University,Group_A,1,7.5
+690,55344,13168,4331,1,2289,Howard University,Group_B,1,7.5
+690,55344,13168,4331,1,2289,Tuskegee University,Group_B,1,7.5
+690,55344,13168,4331,1,2289,Florida A&M University,Group_B,1,7.5
+690,55344,13168,4331,1,2289,Texas Christian University,Group_C,1,7.5
+690,55344,13168,4331,1,2289,Auburn University,Group_C,1,7.5
+690,55344,13168,4331,1,2289,Temple University,Group_C,1,8
+690,55344,13168,4331,1,2289,Hofstra University,Group_D,1,7.5
+690,55344,13168,4331,1,2289,Simmons University,Group_D,1,7.5
+690,55344,13168,4331,1,2289,Adelphi University,Group_D,1,7.5
+691,59138,59767,1979,2,3002,Princeton University,Group_A,0,0
+691,59138,59767,1979,2,3002,Massachusetts Institute of Technology,Group_A,1,8.5
+691,59138,59767,1979,2,3002,Harvard University,Group_A,1,8.5
+691,59138,59767,1979,2,3002,Howard University,Group_B,0,0
+691,59138,59767,1979,2,3002,Tuskegee University,Group_B,1,8.5
+691,59138,59767,1979,2,3002,Florida A&M University,Group_B,1,8.5
+691,59138,59767,1979,2,3002,Texas Christian University,Group_C,1,8.5
+691,59138,59767,1979,2,3002,Auburn University,Group_C,1,8
+691,59138,59767,1979,2,3002,Temple University,Group_C,1,8.5
+691,59138,59767,1979,2,3002,Hofstra University,Group_D,0,0
+691,59138,59767,1979,2,3002,Simmons University,Group_D,0,0
+691,59138,59767,1979,2,3002,Adelphi University,Group_D,1,8.5
+625,47546,23645,1448,3,1088,Princeton University,Group_A,0,0
+625,47546,23645,1448,3,1088,Massachusetts Institute of Technology,Group_A,0,0
+625,47546,23645,1448,3,1088,Harvard University,Group_A,0,0
+625,47546,23645,1448,3,1088,Howard University,Group_B,0,0
+625,47546,23645,1448,3,1088,Tuskegee University,Group_B,0,0
+625,47546,23645,1448,3,1088,Florida A&M University,Group_B,0,0
+625,47546,23645,1448,3,1088,Texas Christian University,Group_C,0,0
+625,47546,23645,1448,3,1088,Auburn University,Group_C,0,0
+625,47546,23645,1448,3,1088,Temple University,Group_C,0,0
+625,47546,23645,1448,3,1088,Hofstra University,Group_D,0,0
+625,47546,23645,1448,3,1088,Simmons University,Group_D,0,0
+625,47546,23645,1448,3,1088,Adelphi University,Group_D,0,0
+622,52217,25081,1667,2,2339,Princeton University,Group_A,0,0
+622,52217,25081,1667,2,2339,Massachusetts Institute of Technology,Group_A,0,0
+622,52217,25081,1667,2,2339,Harvard University,Group_A,0,0
+622,52217,25081,1667,2,2339,Howard University,Group_B,0,0
+622,52217,25081,1667,2,2339,Tuskegee University,Group_B,0,0
+622,52217,25081,1667,2,2339,Florida A&M University,Group_B,0,0
+622,52217,25081,1667,2,2339,Texas Christian University,Group_C,0,0
+622,52217,25081,1667,2,2339,Auburn University,Group_C,0,0
+622,52217,25081,1667,2,2339,Temple University,Group_C,0,0
+622,52217,25081,1667,2,2339,Hofstra University,Group_D,0,0
+622,52217,25081,1667,2,2339,Simmons University,Group_D,0,0
+622,52217,25081,1667,2,2339,Adelphi University,Group_D,0,0
+682,56649,30992,1265,3,2594,Princeton University,Group_A,1,8.5
+682,56649,30992,1265,3,2594,Massachusetts Institute of Technology,Group_A,1,8
+682,56649,30992,1265,3,2594,Harvard University,Group_A,1,8.5
+682,56649,30992,1265,3,2594,Howard University,Group_B,1,8.5
+682,56649,30992,1265,3,2594,Tuskegee University,Group_B,1,8.5
+682,56649,30992,1265,3,2594,Florida A&M University,Group_B,0,0
+682,56649,30992,1265,3,2594,Texas Christian University,Group_C,1,8
+682,56649,30992,1265,3,2594,Auburn University,Group_C,1,8.5
+682,56649,30992,1265,3,2594,Temple University,Group_C,1,8.5
+682,56649,30992,1265,3,2594,Hofstra University,Group_D,1,8.5
+682,56649,30992,1265,3,2594,Simmons University,Group_D,1,8.5
+682,56649,30992,1265,3,2594,Adelphi University,Group_D,0,0
+639,67092,59068,3045,3,2921,Princeton University,Group_A,0,0
+639,67092,59068,3045,3,2921,Massachusetts Institute of Technology,Group_A,0,0
+639,67092,59068,3045,3,2921,Harvard University,Group_A,0,0
+639,67092,59068,3045,3,2921,Howard University,Group_B,0,0
+639,67092,59068,3045,3,2921,Tuskegee University,Group_B,0,0
+639,67092,59068,3045,3,2921,Florida A&M University,Group_B,0,0
+639,67092,59068,3045,3,2921,Texas Christian University,Group_C,0,0
+639,67092,59068,3045,3,2921,Auburn University,Group_C,0,0
+639,67092,59068,3045,3,2921,Temple University,Group_C,0,0
+639,67092,59068,3045,3,2921,Hofstra University,Group_D,0,0
+639,67092,59068,3045,3,2921,Simmons University,Group_D,0,0
+639,67092,59068,3045,3,2921,Adelphi University,Group_D,0,0
+625,48735,27868,2872,3,1908,Princeton University,Group_A,0,0
+625,48735,27868,2872,3,1908,Massachusetts Institute of Technology,Group_A,1,8.5
+625,48735,27868,2872,3,1908,Harvard University,Group_A,0,0
+625,48735,27868,2872,3,1908,Howard University,Group_B,0,0
+625,48735,27868,2872,3,1908,Tuskegee University,Group_B,0,0
+625,48735,27868,2872,3,1908,Florida A&M University,Group_B,0,0
+625,48735,27868,2872,3,1908,Texas Christian University,Group_C,0,0
+625,48735,27868,2872,3,1908,Auburn University,Group_C,0,0
+625,48735,27868,2872,3,1908,Temple University,Group_C,0,0
+625,48735,27868,2872,3,1908,Hofstra University,Group_D,0,0
+625,48735,27868,2872,3,1908,Simmons University,Group_D,0,0
+625,48735,27868,2872,3,1908,Adelphi University,Group_D,0,0
+597,59122,37150,1974,2,1154,Princeton University,Group_A,0,0
+597,59122,37150,1974,2,1154,Massachusetts Institute of Technology,Group_A,0,0
+597,59122,37150,1974,2,1154,Harvard University,Group_A,0,0
+597,59122,37150,1974,2,1154,Howard University,Group_B,0,0
+597,59122,37150,1974,2,1154,Tuskegee University,Group_B,0,0
+597,59122,37150,1974,2,1154,Florida A&M University,Group_B,0,0
+597,59122,37150,1974,2,1154,Texas Christian University,Group_C,0,0
+597,59122,37150,1974,2,1154,Auburn University,Group_C,0,0
+597,59122,37150,1974,2,1154,Temple University,Group_C,0,0
+597,59122,37150,1974,2,1154,Hofstra University,Group_D,0,0
+597,59122,37150,1974,2,1154,Simmons University,Group_D,0,0
+597,59122,37150,1974,2,1154,Adelphi University,Group_D,0,0
+637,57610,54646,4639,2,1280,Princeton University,Group_A,0,0
+637,57610,54646,4639,2,1280,Massachusetts Institute of Technology,Group_A,1,8.5
+637,57610,54646,4639,2,1280,Harvard University,Group_A,1,8.5
+637,57610,54646,4639,2,1280,Howard University,Group_B,0,0
+637,57610,54646,4639,2,1280,Tuskegee University,Group_B,0,0
+637,57610,54646,4639,2,1280,Florida A&M University,Group_B,0,0
+637,57610,54646,4639,2,1280,Texas Christian University,Group_C,0,0
+637,57610,54646,4639,2,1280,Auburn University,Group_C,0,0
+637,57610,54646,4639,2,1280,Temple University,Group_C,0,0
+637,57610,54646,4639,2,1280,Hofstra University,Group_D,0,0
+637,57610,54646,4639,2,1280,Simmons University,Group_D,0,0
+637,57610,54646,4639,2,1280,Adelphi University,Group_D,0,0
+564,45140,41319,1044,2,1455,Princeton University,Group_A,0,0
+564,45140,41319,1044,2,1455,Massachusetts Institute of Technology,Group_A,0,0
+564,45140,41319,1044,2,1455,Harvard University,Group_A,0,0
+564,45140,41319,1044,2,1455,Howard University,Group_B,0,0
+564,45140,41319,1044,2,1455,Tuskegee University,Group_B,0,0
+564,45140,41319,1044,2,1455,Florida A&M University,Group_B,0,0
+564,45140,41319,1044,2,1455,Texas Christian University,Group_C,0,0
+564,45140,41319,1044,2,1455,Auburn University,Group_C,0,0
+564,45140,41319,1044,2,1455,Temple University,Group_C,0,0
+564,45140,41319,1044,2,1455,Hofstra University,Group_D,0,0
+564,45140,41319,1044,2,1455,Simmons University,Group_D,0,0
+564,45140,41319,1044,2,1455,Adelphi University,Group_D,0,0
+574,69780,12108,2585,2,1228,Princeton University,Group_A,0,0
+574,69780,12108,2585,2,1228,Massachusetts Institute of Technology,Group_A,0,0
+574,69780,12108,2585,2,1228,Harvard University,Group_A,0,0
+574,69780,12108,2585,2,1228,Howard University,Group_B,0,0
+574,69780,12108,2585,2,1228,Tuskegee University,Group_B,0,0
+574,69780,12108,2585,2,1228,Florida A&M University,Group_B,0,0
+574,69780,12108,2585,2,1228,Texas Christian University,Group_C,0,0
+574,69780,12108,2585,2,1228,Auburn University,Group_C,0,0
+574,69780,12108,2585,2,1228,Temple University,Group_C,0,0
+574,69780,12108,2585,2,1228,Hofstra University,Group_D,0,0
+574,69780,12108,2585,2,1228,Simmons University,Group_D,0,0
+574,69780,12108,2585,2,1228,Adelphi University,Group_D,0,0
+576,48586,10512,2396,1,3480,Princeton University,Group_A,0,0
+576,48586,10512,2396,1,3480,Massachusetts Institute of Technology,Group_A,0,0
+576,48586,10512,2396,1,3480,Harvard University,Group_A,0,0
+576,48586,10512,2396,1,3480,Howard University,Group_B,0,0
+576,48586,10512,2396,1,3480,Tuskegee University,Group_B,0,0
+576,48586,10512,2396,1,3480,Florida A&M University,Group_B,0,0
+576,48586,10512,2396,1,3480,Texas Christian University,Group_C,0,0
+576,48586,10512,2396,1,3480,Auburn University,Group_C,0,0
+576,48586,10512,2396,1,3480,Temple University,Group_C,0,0
+576,48586,10512,2396,1,3480,Hofstra University,Group_D,0,0
+576,48586,10512,2396,1,3480,Simmons University,Group_D,0,0
+576,48586,10512,2396,1,3480,Adelphi University,Group_D,0,0
+625,61942,24115,2202,1,2977,Princeton University,Group_A,0,0
+625,61942,24115,2202,1,2977,Massachusetts Institute of Technology,Group_A,1,8.5
+625,61942,24115,2202,1,2977,Harvard University,Group_A,0,0
+625,61942,24115,2202,1,2977,Howard University,Group_B,0,0
+625,61942,24115,2202,1,2977,Tuskegee University,Group_B,0,0
+625,61942,24115,2202,1,2977,Florida A&M University,Group_B,0,0
+625,61942,24115,2202,1,2977,Texas Christian University,Group_C,0,0
+625,61942,24115,2202,1,2977,Auburn University,Group_C,0,0
+625,61942,24115,2202,1,2977,Temple University,Group_C,0,0
+625,61942,24115,2202,1,2977,Hofstra University,Group_D,0,0
+625,61942,24115,2202,1,2977,Simmons University,Group_D,0,0
+625,61942,24115,2202,1,2977,Adelphi University,Group_D,0,0
+675,57583,15279,4055,1,2572,Princeton University,Group_A,1,7.5
+675,57583,15279,4055,1,2572,Massachusetts Institute of Technology,Group_A,1,7.5
+675,57583,15279,4055,1,2572,Harvard University,Group_A,1,7.5
+675,57583,15279,4055,1,2572,Howard University,Group_B,1,8
+675,57583,15279,4055,1,2572,Tuskegee University,Group_B,1,8.5
+675,57583,15279,4055,1,2572,Florida A&M University,Group_B,1,7.5
+675,57583,15279,4055,1,2572,Texas Christian University,Group_C,1,7.5
+675,57583,15279,4055,1,2572,Auburn University,Group_C,1,7.5
+675,57583,15279,4055,1,2572,Temple University,Group_C,1,7.5
+675,57583,15279,4055,1,2572,Hofstra University,Group_D,1,7.5
+675,57583,15279,4055,1,2572,Simmons University,Group_D,1,8
+675,57583,15279,4055,1,2572,Adelphi University,Group_D,1,7.5
+634,63405,56243,1872,3,1814,Princeton University,Group_A,0,0
+634,63405,56243,1872,3,1814,Massachusetts Institute of Technology,Group_A,0,0
+634,63405,56243,1872,3,1814,Harvard University,Group_A,0,0
+634,63405,56243,1872,3,1814,Howard University,Group_B,0,0
+634,63405,56243,1872,3,1814,Tuskegee University,Group_B,0,0
+634,63405,56243,1872,3,1814,Florida A&M University,Group_B,0,0
+634,63405,56243,1872,3,1814,Texas Christian University,Group_C,0,0
+634,63405,56243,1872,3,1814,Auburn University,Group_C,0,0
+634,63405,56243,1872,3,1814,Temple University,Group_C,0,0
+634,63405,56243,1872,3,1814,Hofstra University,Group_D,0,0
+634,63405,56243,1872,3,1814,Simmons University,Group_D,0,0
+634,63405,56243,1872,3,1814,Adelphi University,Group_D,0,0
+695,61296,30947,3989,3,3386,Princeton University,Group_A,1,7.5
+695,61296,30947,3989,3,3386,Massachusetts Institute of Technology,Group_A,1,8.5
+695,61296,30947,3989,3,3386,Harvard University,Group_A,1,8.5
+695,61296,30947,3989,3,3386,Howard University,Group_B,1,8
+695,61296,30947,3989,3,3386,Tuskegee University,Group_B,1,8.5
+695,61296,30947,3989,3,3386,Florida A&M University,Group_B,1,8
+695,61296,30947,3989,3,3386,Texas Christian University,Group_C,1,8
+695,61296,30947,3989,3,3386,Auburn University,Group_C,1,8.5
+695,61296,30947,3989,3,3386,Temple University,Group_C,1,8.5
+695,61296,30947,3989,3,3386,Hofstra University,Group_D,1,8
+695,61296,30947,3989,3,3386,Simmons University,Group_D,1,8
+695,61296,30947,3989,3,3386,Adelphi University,Group_D,1,8.5
+671,66323,46498,3044,1,2677,Princeton University,Group_A,1,8.5
+671,66323,46498,3044,1,2677,Massachusetts Institute of Technology,Group_A,1,8
+671,66323,46498,3044,1,2677,Harvard University,Group_A,1,8.5
+671,66323,46498,3044,1,2677,Howard University,Group_B,1,8.5
+671,66323,46498,3044,1,2677,Tuskegee University,Group_B,1,8
+671,66323,46498,3044,1,2677,Florida A&M University,Group_B,1,8.5
+671,66323,46498,3044,1,2677,Texas Christian University,Group_C,1,8.5
+671,66323,46498,3044,1,2677,Auburn University,Group_C,1,8.5
+671,66323,46498,3044,1,2677,Temple University,Group_C,1,8.5
+671,66323,46498,3044,1,2677,Hofstra University,Group_D,1,8.5
+671,66323,46498,3044,1,2677,Simmons University,Group_D,1,8
+671,66323,46498,3044,1,2677,Adelphi University,Group_D,1,8.5
+599,54564,52767,3930,3,2056,Princeton University,Group_A,0,0
+599,54564,52767,3930,3,2056,Massachusetts Institute of Technology,Group_A,0,0
+599,54564,52767,3930,3,2056,Harvard University,Group_A,0,0
+599,54564,52767,3930,3,2056,Howard University,Group_B,0,0
+599,54564,52767,3930,3,2056,Tuskegee University,Group_B,0,0
+599,54564,52767,3930,3,2056,Florida A&M University,Group_B,0,0
+599,54564,52767,3930,3,2056,Texas Christian University,Group_C,0,0
+599,54564,52767,3930,3,2056,Auburn University,Group_C,0,0
+599,54564,52767,3930,3,2056,Temple University,Group_C,0,0
+599,54564,52767,3930,3,2056,Hofstra University,Group_D,0,0
+599,54564,52767,3930,3,2056,Simmons University,Group_D,0,0
+599,54564,52767,3930,3,2056,Adelphi University,Group_D,0,0
+686,64587,44603,4852,2,3130,Princeton University,Group_A,1,8
+686,64587,44603,4852,2,3130,Massachusetts Institute of Technology,Group_A,1,8
+686,64587,44603,4852,2,3130,Harvard University,Group_A,1,8.5
+686,64587,44603,4852,2,3130,Howard University,Group_B,1,8.5
+686,64587,44603,4852,2,3130,Tuskegee University,Group_B,1,8.5
+686,64587,44603,4852,2,3130,Florida A&M University,Group_B,1,8
+686,64587,44603,4852,2,3130,Texas Christian University,Group_C,1,7.5
+686,64587,44603,4852,2,3130,Auburn University,Group_C,1,8.5
+686,64587,44603,4852,2,3130,Temple University,Group_C,1,8.5
+686,64587,44603,4852,2,3130,Hofstra University,Group_D,1,8
+686,64587,44603,4852,2,3130,Simmons University,Group_D,1,8
+686,64587,44603,4852,2,3130,Adelphi University,Group_D,1,8.5
+591,72705,36522,1374,3,1779,Princeton University,Group_A,0,0
+591,72705,36522,1374,3,1779,Massachusetts Institute of Technology,Group_A,0,0
+591,72705,36522,1374,3,1779,Harvard University,Group_A,0,0
+591,72705,36522,1374,3,1779,Howard University,Group_B,0,0
+591,72705,36522,1374,3,1779,Tuskegee University,Group_B,0,0
+591,72705,36522,1374,3,1779,Florida A&M University,Group_B,0,0
+591,72705,36522,1374,3,1779,Texas Christian University,Group_C,0,0
+591,72705,36522,1374,3,1779,Auburn University,Group_C,0,0
+591,72705,36522,1374,3,1779,Temple University,Group_C,0,0
+591,72705,36522,1374,3,1779,Hofstra University,Group_D,0,0
+591,72705,36522,1374,3,1779,Simmons University,Group_D,0,0
+591,72705,36522,1374,3,1779,Adelphi University,Group_D,0,0
+699,61338,44267,2958,2,2557,Princeton University,Group_A,0,0
+699,61338,44267,2958,2,2557,Massachusetts Institute of Technology,Group_A,1,8.5
+699,61338,44267,2958,2,2557,Harvard University,Group_A,1,8.5
+699,61338,44267,2958,2,2557,Temple University,Group_C,0,0
+699,61338,44267,2958,2,2557,Adelphi University,Group_D,0,0
